@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "mode": "impostor",
+  "language": "de",
+  "revision": 2,
+  "title": "Impostor – Basis DE",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "imp_de_0001",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Tiere",
+      "word": "Elefant",
+      "emoji": "🐘"
+    },
+    {
+      "id": "imp_de_0002",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Tiere",
+      "word": "Katze",
+      "emoji": "🐱"
+    },
+    {
+      "id": "imp_de_0003",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Tiere",
+      "word": "Pinguin",
+      "emoji": "🐧"
+    },
+    {
+      "id": "imp_de_0004",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Tiere",
+      "word": "Chamäleon",
+      "emoji": "🦎"
+    },
+    {
+      "id": "imp_de_0005",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Essen",
+      "word": "Pizza",
+      "emoji": "🍕"
+    },
+    {
+      "id": "imp_de_0006",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Essen",
+      "word": "Banane",
+      "emoji": "🍌"
+    },
+    {
+      "id": "imp_de_0007",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Essen",
+      "word": "Eis",
+      "emoji": "🍦"
+    },
+    {
+      "id": "imp_de_0008",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Zuhause",
+      "word": "Bett",
+      "emoji": "🛏️"
+    },
+    {
+      "id": "imp_de_0009",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Zuhause",
+      "word": "Zahnbürste",
+      "emoji": "🪥"
+    },
+    {
+      "id": "imp_de_0010",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Zuhause",
+      "word": "Staubsauger",
+      "emoji": "🧹"
+    },
+    {
+      "id": "imp_de_0011",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Sport",
+      "word": "Fußball",
+      "emoji": "⚽"
+    },
+    {
+      "id": "imp_de_0012",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Sport",
+      "word": "Klettern",
+      "emoji": "🧗"
+    },
+    {
+      "id": "imp_de_0013",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "pro",
+      "category": "Berufe",
+      "word": "Steuerberater",
+      "emoji": "🧾"
+    },
+    {
+      "id": "imp_de_0014",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "pro",
+      "category": "Urlaub",
+      "word": "Sonnenbrand",
+      "emoji": "🥵"
+    },
+    {
+      "id": "imp_de_0015",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "free",
+      "category": "Urlaub",
+      "word": "Campingzelt",
+      "emoji": "⛺"
+    },
+    {"id":"imp_de_0016","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Natur","word":"Polarlicht","emoji":"🌌"},
+    {"id":"imp_de_0017","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Musik","word":"Xylophon","emoji":"🎶"},
+    {"id":"imp_de_0018","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Weltall","word":"Sternschnuppe","emoji":"🌠"},
+    {"id":"imp_de_0019","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Erfindungen","word":"Heißluftballon","emoji":"🎈"},
+    {"id":"imp_de_0020","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Küche","word":"Waffeleisen","emoji":"🧇"},
+    {"id":"imp_de_0021","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Reisen","word":"Leuchtturm","emoji":"🌊"},
+    {"id":"imp_de_0022","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Märchen","word":"Zauberspiegel","emoji":"🪞"},
+    {"id":"imp_de_0023","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Sport","word":"Trampolin","emoji":"🤸"},
+    {"id":"imp_de_0024","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Tiere","word":"Flamingo","emoji":"🦩"},
+    {"id":"imp_de_0025","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Garten","word":"Sonnenblume","emoji":"🌻"},
+    {"id":"imp_de_0026","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Wetter","word":"Regenbogen","emoji":"🌈"},
+    {"id":"imp_de_0027","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Handwerk","word":"Töpferscheibe","emoji":"🏺"}
+  ]
+}

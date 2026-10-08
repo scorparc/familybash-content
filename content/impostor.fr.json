@@ -1,0 +1,355 @@
+{
+  "schemaVersion": 1,
+  "mode": "impostor",
+  "language": "fr",
+  "revision": 1,
+  "title": "Imposteur – France",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "imp_fr_0001",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animaux",
+      "word": "Chat",
+      "emoji": "🐈"
+    },
+    {
+      "id": "imp_fr_0002",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animaux",
+      "word": "Chien",
+      "emoji": "🐕"
+    },
+    {
+      "id": "imp_fr_0003",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animaux",
+      "word": "Lapin",
+      "emoji": "🐇"
+    },
+    {
+      "id": "imp_fr_0004",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animaux",
+      "word": "Papillon",
+      "emoji": "🦋"
+    },
+    {
+      "id": "imp_fr_0005",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Goûter",
+      "word": "Croissant",
+      "emoji": "🥐"
+    },
+    {
+      "id": "imp_fr_0006",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Goûter",
+      "word": "Crêpe",
+      "emoji": "🥞"
+    },
+    {
+      "id": "imp_fr_0007",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Voyage",
+      "word": "Train",
+      "emoji": "🚆"
+    },
+    {
+      "id": "imp_fr_0008",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Nature",
+      "word": "Soleil",
+      "emoji": "☀️"
+    },
+    {
+      "id": "imp_fr_0009",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Goûter",
+      "word": "Baguette",
+      "emoji": "🥖"
+    },
+    {
+      "id": "imp_fr_0010",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Goûter",
+      "word": "Macaron",
+      "emoji": "🍪"
+    },
+    {
+      "id": "imp_fr_0011",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Goûter",
+      "word": "Pomme",
+      "emoji": "🍎"
+    },
+    {
+      "id": "imp_fr_0012",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Lieux",
+      "word": "Parc",
+      "emoji": "🌳"
+    },
+    {
+      "id": "imp_fr_0013",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Lieux",
+      "word": "Plage",
+      "emoji": "🏖️"
+    },
+    {
+      "id": "imp_fr_0014",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Lieux",
+      "word": "Musée",
+      "emoji": "🏛️"
+    },
+    {
+      "id": "imp_fr_0015",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Voyage",
+      "word": "Vélo",
+      "emoji": "🚲"
+    },
+    {
+      "id": "imp_fr_0016",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Voyage",
+      "word": "Bateau",
+      "emoji": "🚢"
+    },
+    {
+      "id": "imp_fr_0017",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Objets",
+      "word": "Parapluie",
+      "emoji": "☂️"
+    },
+    {
+      "id": "imp_fr_0018",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Objets",
+      "word": "Cartable",
+      "emoji": "🎒"
+    },
+    {
+      "id": "imp_fr_0019",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Nature",
+      "word": "Montagne",
+      "emoji": "⛰️"
+    },
+    {
+      "id": "imp_fr_0020",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Nature",
+      "word": "Fleur",
+      "emoji": "🌼"
+    },
+    {
+      "id": "imp_fr_0021",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Musique",
+      "word": "Accordéon",
+      "emoji": "🪗"
+    },
+    {
+      "id": "imp_fr_0022",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Sport",
+      "word": "Ballon",
+      "emoji": "⚽"
+    },
+    {
+      "id": "imp_fr_0023",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Animaux",
+      "word": "Hérisson",
+      "emoji": "🦔"
+    }
+  ]
+}

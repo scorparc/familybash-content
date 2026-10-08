@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "mode": "who_would",
+  "language": "de",
+  "revision": 3,
+  "title": "Wer würde eher – Basis DE",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "who_de_0001",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Wer würde eher das Gemüse heimlich unter den Tellerrand schieben?"
+    },
+    {
+      "id": "who_de_0002",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Wer würde eher im Zoo als Erstes zu den Affen rennen?"
+    },
+    {
+      "id": "who_de_0003",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Wer würde eher bei einem Kissenschlacht-Turnier gewinnen?"
+    },
+    {
+      "id": "who_de_0004",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "text": "Wer würde eher den Familienhund mit noch mehr Leckerlis verwöhnen?"
+    },
+    {
+      "id": "who_de_0005",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Wer würde eher beim Verstecken spielen sofort gefunden werden, weil er kichert?"
+    },
+    {
+      "id": "who_de_0006",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "text": "Wer würde eher beim gemütlichen Film auf dem Sofa als Erstes einschlafen?"
+    },
+    {
+      "id": "who_de_0007",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "text": "Wer würde eher einen wichtigen Termin komplett vergessen?"
+    },
+    {
+      "id": "who_de_0008",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "text": "Wer würde eher ein neues Gerät aufbauen, ohne die Anleitung zu lesen?"
+    },
+    {
+      "id": "who_de_0009",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "text": "Wer würde eher dasselbe Foto zehnmal machen, bis es perfekt ist?"
+    },
+    {
+      "id": "who_de_0010",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "text": "Wer würde eher beim Kochen jedes Rezept spontan abändern?"
+    },
+    {
+      "id": "who_de_0011",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "free",
+      "text": "Wer würde eher heimlich Schokolade naschen, ohne etwas abzugeben?"
+    },
+    {
+      "id": "who_de_0012",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "free",
+      "text": "Wer würde eher am längsten das Badezimmer für sich blockieren?"
+    },
+    {
+      "id": "who_de_0013",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "pro",
+      "text": "Wer würde eher morgens am lautesten schnarchen?"
+    },
+    {
+      "id": "who_de_0014",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Wer würde eher am lautesten mitsingen, wenn das Lieblingslied läuft?"
+    },
+    {
+      "id": "who_de_0015",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "pro",
+      "text": "Wer würde eher beim Gesellschaftsspiel als schlechtester Verlierer bekannt sein?"
+    },
+    {
+      "id": "who_de_0016",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Wer würde eher als Erstes einen Regenbogen entdecken?"
+    },
+    {
+      "id": "who_de_0017",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Wer würde sich eher die Lieblingsspeise von allen merken?"
+    },
+    {
+      "id": "who_de_0018",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Wer würde eher ein verlorenes Puzzleteil wiederfinden?"
+    },
+    {
+      "id": "who_de_0019",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Wer würde eher eine schöne Geschichte erfinden?"
+    },
+    {
+      "id": "who_de_0020",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Wer würde eher beim Picknick an alles denken?"
+    },
+    {"id":"who_de_0021","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Wer würde eher ein geheimes Baumhaus entwerfen?"},
+    {"id":"who_de_0022","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Wer würde eher einen verlorenen Hund nach Hause begleiten?"},
+    {"id":"who_de_0023","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Wer würde eher eine neue Eissorte erfinden?"},
+    {"id":"who_de_0024","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Wer würde eher eine Schatzkarte zeichnen?"},
+    {"id":"who_de_0025","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Wer würde eher bei einem Quiz die überraschendste Antwort wissen?"},
+    {"id":"who_de_0026","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Wer würde eher eine lange Zugreise planen?"},
+    {"id":"who_de_0027","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Wer würde eher ein Lied für die Familie schreiben?"},
+    {"id":"who_de_0028","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Wer würde eher ein kaputtes Spielzeug reparieren?"},
+    {"id":"who_de_0029","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Wer würde eher einen Garten voller Wildblumen anlegen?"},
+    {"id":"who_de_0030","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Wer würde eher bei Regen trotzdem ein Picknick planen?"},
+    {"id":"who_de_0031","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Wer würde eher einen lustigen Namen für ein Haustier finden?"},
+    {"id":"who_de_0032","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Wer würde eher ein Museum für seltsame Erfindungen eröffnen?"}
+  ]
+}

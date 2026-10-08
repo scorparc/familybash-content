@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "mode": "charades",
+  "language": "de",
+  "revision": 3,
+  "title": "Scharade – Basis DE",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "cha_de_0001",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Hund",
+      "emoji": "🐶",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_de_0002",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Katze",
+      "emoji": "🐱",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_de_0003",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Zähne putzen",
+      "emoji": "🪥",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_de_0004",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Fußball spielen",
+      "emoji": "⚽",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_de_0005",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Schlafen",
+      "emoji": "😴",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_de_0006",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Elefant",
+      "emoji": "🐘",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_de_0007",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Schwimmen",
+      "emoji": "🏊",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_de_0008",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "term": "Gitarre spielen",
+      "emoji": "🎸",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_de_0009",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "term": "Koch",
+      "emoji": "👨‍🍳",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_de_0010",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "pro",
+      "term": "Feuerwehrmann",
+      "emoji": "🧑‍🚒",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_de_0011",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "term": "Selfie machen",
+      "emoji": "🤳",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_de_0012",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "pro",
+      "term": "Bergsteigen",
+      "emoji": "🧗",
+      "difficulty": 3
+    },
+    {
+      "id": "cha_de_0013",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "term": "Zauberer",
+      "emoji": "🧙",
+      "difficulty": 3
+    },
+    {
+      "id": "cha_de_0014",
+      "ageBands": ["adult", "senior"],
+      "filter": "family",
+      "tier": "pro",
+      "term": "Dirigent",
+      "emoji": "🧑‍🎤",
+      "difficulty": 3
+    },
+    {
+      "id": "cha_de_0015",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "free",
+      "term": "In der Nase bohren",
+      "emoji": "👃",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_de_0016",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Zähne putzen",
+      "emoji": "🪥",
+      "difficulty": 1
+    },
+    {"id":"cha_de_0017","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Einen Drachen steigen lassen","emoji":"🪁","difficulty":2},
+    {"id":"cha_de_0018","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Auf einem Trampolin springen","emoji":"🤸","difficulty":2},
+    {"id":"cha_de_0019","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Eine Sandburg bauen","emoji":"🏖️","difficulty":2},
+    {"id":"cha_de_0020","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Ein Orchester dirigieren","emoji":"🎼","difficulty":3},
+    {"id":"cha_de_0021","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Eine Schatzkarte lesen","emoji":"🗺️","difficulty":2},
+    {"id":"cha_de_0022","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Eine Schneeflocke fangen","emoji":"❄️","difficulty":2},
+    {"id":"cha_de_0023","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Ein Zelt aufbauen","emoji":"⛺","difficulty":3},
+    {"id":"cha_de_0024","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Eine Sonnenblume wachsen lassen","emoji":"🌻","difficulty":2},
+    {"id":"cha_de_0025","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Als Astronaut schweben","emoji":"🧑‍🚀","difficulty":3},
+    {"id":"cha_de_0026","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Mit einem Fernglas Vögel beobachten","emoji":"🔭","difficulty":3},
+    {"id":"cha_de_0027","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Ein Geschenk einpacken","emoji":"🎁","difficulty":2},
+    {"id":"cha_de_0028","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Eine große Seifenblase pusten","emoji":"🫧","difficulty":2}
+  ]
+}

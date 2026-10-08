@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "mode": "charades",
+  "language": "en",
+  "revision": 3,
+  "title": "Charades – Core EN",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "cha_en_0001",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Dog",
+      "emoji": "🐶",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_en_0002",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Cat",
+      "emoji": "🐱",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_en_0003",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Brushing teeth",
+      "emoji": "🪥",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_en_0004",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Elephant",
+      "emoji": "🐘",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_en_0005",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Playing soccer",
+      "emoji": "⚽",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_en_0006",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Sleeping",
+      "emoji": "😴",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_en_0007",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Eating an ice cream",
+      "emoji": "🍦",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_en_0008",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Riding a bike",
+      "emoji": "🚴",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_en_0009",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "term": "Firefighter",
+      "emoji": "🧑‍🚒",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_en_0010",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Taking a selfie",
+      "emoji": "🤳",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_en_0011",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "pro",
+      "term": "Conducting an orchestra",
+      "emoji": "🎼",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_en_0012",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "term": "Doing yoga",
+      "emoji": "🧘",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_en_0013",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "term": "Fishing",
+      "emoji": "🎣",
+      "difficulty": 3
+    },
+    {
+      "id": "cha_en_0014",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "pro",
+      "term": "Doing karaoke off-key",
+      "emoji": "🎤",
+      "difficulty": 3
+    },
+    {
+      "id": "cha_en_0015",
+      "ageBands": ["adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "term": "Assembling flat-pack furniture",
+      "emoji": "🪛",
+      "difficulty": 3
+    },
+    {
+      "id": "cha_en_0016",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Brushing your teeth",
+      "emoji": "🪥",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_en_0017",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Opening an umbrella",
+      "emoji": "☂️",
+      "difficulty": 1
+    },
+    {"id":"cha_en_0018","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Flying a kite","emoji":"🪁","difficulty":2},
+    {"id":"cha_en_0019","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Bouncing on a trampoline","emoji":"🤸","difficulty":2},
+    {"id":"cha_en_0020","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Building a sandcastle","emoji":"🏖️","difficulty":2},
+    {"id":"cha_en_0021","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Conducting a marching band","emoji":"🎼","difficulty":3},
+    {"id":"cha_en_0022","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Reading a treasure map","emoji":"🗺️","difficulty":2},
+    {"id":"cha_en_0023","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Catching a snowflake","emoji":"❄️","difficulty":2},
+    {"id":"cha_en_0024","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Putting up a tent","emoji":"⛺","difficulty":3},
+    {"id":"cha_en_0025","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Growing like a sunflower","emoji":"🌻","difficulty":2},
+    {"id":"cha_en_0026","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Floating like an astronaut","emoji":"🧑‍🚀","difficulty":3},
+    {"id":"cha_en_0027","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Watching birds through binoculars","emoji":"🔭","difficulty":3},
+    {"id":"cha_en_0028","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Wrapping a present","emoji":"🎁","difficulty":2},
+    {"id":"cha_en_0029","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","term":"Blowing a giant bubble","emoji":"🫧","difficulty":2}
+  ]
+}

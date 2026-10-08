@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "mode": "word_bomb",
+  "language": "it",
+  "revision": 1,
+  "title": "Bomba di parole – Italia",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "wb_it_0001",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animali della fattoria",
+      "examples": "mucca, gallina, pecora"
+    },
+    {
+      "id": "wb_it_0002",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Frutti",
+      "examples": "mela, pera, arancia"
+    },
+    {
+      "id": "wb_it_0003",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Colori",
+      "examples": "rosso, blu, verde"
+    },
+    {
+      "id": "wb_it_0004",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "In spiaggia",
+      "examples": "sabbia, asciugamano, ombrellone"
+    },
+    {
+      "id": "wb_it_0005",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Mezzi di trasporto",
+      "examples": "treno, bici, traghetto"
+    },
+    {
+      "id": "wb_it_0006",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "A colazione",
+      "examples": "pane, frutta, yogurt"
+    },
+    {
+      "id": "wb_it_0007",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "A scuola",
+      "examples": "matita, quaderno, zaino"
+    },
+    {
+      "id": "wb_it_0008",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Alberi",
+      "examples": "quercia, pino, ulivo"
+    },
+    {
+      "id": "wb_it_0009",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Città italiane",
+      "examples": "Torino, Bologna, Napoli"
+    },
+    {
+      "id": "wb_it_0010",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Sport",
+      "examples": "calcio, tennis, pallavolo"
+    },
+    {
+      "id": "wb_it_0011",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Strumenti musicali",
+      "examples": "piano, chitarra, flauto"
+    },
+    {
+      "id": "wb_it_0012",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Vestiti",
+      "examples": "camicia, cappotto, cappello"
+    },
+    {
+      "id": "wb_it_0013",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Verdure",
+      "examples": "carota, pomodoro, zucchina"
+    },
+    {
+      "id": "wb_it_0014",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Animali del mare",
+      "examples": "delfino, polpo, sardina"
+    },
+    {
+      "id": "wb_it_0015",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Parole che iniziano per S",
+      "examples": "sole, sedia, sabbia"
+    },
+    {
+      "id": "wb_it_0016",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "In un parco",
+      "examples": "panchina, albero, altalena"
+    },
+    {
+      "id": "wb_it_0017",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Cose che rotolano",
+      "examples": "ruota, palla, biglia"
+    },
+    {
+      "id": "wb_it_0018",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Fiumi italiani",
+      "examples": "Po, Arno, Tevere"
+    },
+    {
+      "id": "wb_it_0019",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Mestieri",
+      "examples": "fornaio, medico, falegname"
+    },
+    {
+      "id": "wb_it_0020",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Cose che volano",
+      "examples": "uccello, aquilone, aereo"
+    },
+    {
+      "id": "wb_it_0021",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Giochi da tavolo",
+      "examples": "scacchi, domino, dama"
+    },
+    {
+      "id": "wb_it_0022",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Dolci italiani",
+      "examples": "tiramisù, cannolo, crostata"
+    },
+    {
+      "id": "wb_it_0023",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Città sul mare",
+      "examples": "Genova, Bari, Palermo"
+    }
+  ]
+}

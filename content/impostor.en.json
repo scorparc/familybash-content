@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "mode": "impostor",
+  "language": "en",
+  "revision": 3,
+  "title": "Impostor – Core EN",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "imp_en_0001",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animals",
+      "word": "Dog",
+      "emoji": "🐶"
+    },
+    {
+      "id": "imp_en_0002",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animals",
+      "word": "Elephant",
+      "emoji": "🐘"
+    },
+    {
+      "id": "imp_en_0003",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animals",
+      "word": "Penguin",
+      "emoji": "🐧"
+    },
+    {
+      "id": "imp_en_0004",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Food",
+      "word": "Pizza",
+      "emoji": "🍕"
+    },
+    {
+      "id": "imp_en_0005",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Food",
+      "word": "Banana",
+      "emoji": "🍌"
+    },
+    {
+      "id": "imp_en_0006",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "category": "Food",
+      "word": "Sushi",
+      "emoji": "🍣"
+    },
+    {
+      "id": "imp_en_0007",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Home",
+      "word": "Bed",
+      "emoji": "🛏️"
+    },
+    {
+      "id": "imp_en_0008",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Home",
+      "word": "Toothbrush",
+      "emoji": "🪥"
+    },
+    {
+      "id": "imp_en_0009",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Home",
+      "word": "Vacuum cleaner",
+      "emoji": "🧹"
+    },
+    {
+      "id": "imp_en_0010",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Sports",
+      "word": "Soccer",
+      "emoji": "⚽"
+    },
+    {
+      "id": "imp_en_0011",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Sports",
+      "word": "Basketball",
+      "emoji": "🏀"
+    },
+    {
+      "id": "imp_en_0012",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Jobs",
+      "word": "Architect",
+      "emoji": "📐"
+    },
+    {
+      "id": "imp_en_0013",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Jobs",
+      "word": "Electrician",
+      "emoji": "💡"
+    },
+    {
+      "id": "imp_en_0014",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "pro",
+      "category": "Vacation",
+      "word": "Sunburn",
+      "emoji": "🥵"
+    },
+    {
+      "id": "imp_en_0015",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "free",
+      "category": "Vacation",
+      "word": "Snoring tent neighbor",
+      "emoji": "⛺"
+    },
+    {
+      "id": "imp_en_0016",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Nature",
+      "word": "Rainbow",
+      "emoji": "🌈"
+    },
+    {"id":"imp_en_0017","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Nature","word":"Northern lights","emoji":"🌌"},
+    {"id":"imp_en_0018","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Music","word":"Xylophone","emoji":"🎶"},
+    {"id":"imp_en_0019","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Space","word":"Shooting star","emoji":"🌠"},
+    {"id":"imp_en_0020","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Inventions","word":"Hot-air balloon","emoji":"🎈"},
+    {"id":"imp_en_0021","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Kitchen","word":"Waffle iron","emoji":"🧇"},
+    {"id":"imp_en_0022","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Travel","word":"Lighthouse","emoji":"🌊"},
+    {"id":"imp_en_0023","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Fairy tales","word":"Magic mirror","emoji":"🪞"},
+    {"id":"imp_en_0024","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Sports","word":"Trampoline","emoji":"🤸"},
+    {"id":"imp_en_0025","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Animals","word":"Flamingo","emoji":"🦩"},
+    {"id":"imp_en_0026","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Garden","word":"Sunflower","emoji":"🌻"},
+    {"id":"imp_en_0027","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Weather","word":"Rainbow","emoji":"🌈"},
+    {"id":"imp_en_0028","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Crafts","word":"Potter's wheel","emoji":"🏺"}
+  ]
+}

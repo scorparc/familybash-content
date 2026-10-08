@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "mode": "word_bomb",
+  "language": "pt",
+  "revision": 1,
+  "title": "Bomba de palavras – Portugal",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "wb_pt_0001",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animais da quinta",
+      "examples": "vaca, galinha, ovelha"
+    },
+    {
+      "id": "wb_pt_0002",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Frutas",
+      "examples": "maçã, pera, laranja"
+    },
+    {
+      "id": "wb_pt_0003",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Cores",
+      "examples": "vermelho, azul, verde"
+    },
+    {
+      "id": "wb_pt_0004",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Na praia",
+      "examples": "areia, toalha, chapéu de sol"
+    },
+    {
+      "id": "wb_pt_0005",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Transportes",
+      "examples": "comboio, bicicleta, barco"
+    },
+    {
+      "id": "wb_pt_0006",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Ao pequeno-almoço",
+      "examples": "pão, fruta, iogurte"
+    },
+    {
+      "id": "wb_pt_0007",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Na escola",
+      "examples": "lápis, caderno, mochila"
+    },
+    {
+      "id": "wb_pt_0008",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Árvores",
+      "examples": "sobreiro, pinheiro, oliveira"
+    },
+    {
+      "id": "wb_pt_0009",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Cidades portuguesas",
+      "examples": "Coimbra, Évora, Braga"
+    },
+    {
+      "id": "wb_pt_0010",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Desportos",
+      "examples": "futebol, ténis, voleibol"
+    },
+    {
+      "id": "wb_pt_0011",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Instrumentos musicais",
+      "examples": "guitarra, piano, flauta"
+    },
+    {
+      "id": "wb_pt_0012",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Peças de roupa",
+      "examples": "camisa, casaco, boné"
+    },
+    {
+      "id": "wb_pt_0013",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Legumes",
+      "examples": "cenoura, tomate, curgete"
+    },
+    {
+      "id": "wb_pt_0014",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Animais do mar",
+      "examples": "golfinho, polvo, sardinha"
+    },
+    {
+      "id": "wb_pt_0015",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Palavras começadas por C",
+      "examples": "casa, cão, carro"
+    },
+    {
+      "id": "wb_pt_0016",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Num jardim",
+      "examples": "banco, árvore, baloiço"
+    },
+    {
+      "id": "wb_pt_0017",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Coisas que rolam",
+      "examples": "roda, bola, berlinde"
+    },
+    {
+      "id": "wb_pt_0018",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Rios de Portugal",
+      "examples": "Tejo, Douro, Mondego"
+    },
+    {
+      "id": "wb_pt_0019",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Profissões",
+      "examples": "padeiro, médica, carpinteiro"
+    },
+    {
+      "id": "wb_pt_0020",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Coisas que voam",
+      "examples": "pássaro, papagaio, avião"
+    },
+    {
+      "id": "wb_pt_0021",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Jogos de tabuleiro",
+      "examples": "xadrez, dominó, damas"
+    },
+    {
+      "id": "wb_pt_0022",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Doces portugueses",
+      "examples": "pastel de nata, queijada, arroz doce"
+    },
+    {
+      "id": "wb_pt_0023",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Cidades junto ao mar",
+      "examples": "Porto, Faro, Setúbal"
+    }
+  ]
+}

@@ -1,0 +1,764 @@
+{
+  "schemaVersion": 1,
+  "mode": "quiz",
+  "language": "it",
+  "revision": 1,
+  "title": "Sfida a quiz – Italia",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "qz_it_0001",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quante zampe ha un ragno?",
+      "options": [
+        "Otto",
+        "Sei",
+        "Quattro",
+        "Dieci"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_it_0002",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Che colore si ottiene mescolando blu e giallo?",
+      "options": [
+        "Viola",
+        "Verde",
+        "Arancione",
+        "Rosso"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_it_0003",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quanti giorni ci sono in una settimana?",
+      "options": [
+        "Cinque",
+        "Sei",
+        "Sette",
+        "Otto"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_it_0004",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quale animale porta il guscio sulla schiena?",
+      "options": [
+        "Volpe",
+        "Anatra",
+        "Cavallo",
+        "Lumaca"
+      ],
+      "correctIndex": 3,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_it_0005",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quale figura ha tre lati?",
+      "options": [
+        "Triangolo",
+        "Quadrato",
+        "Cerchio",
+        "Rettangolo"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_it_0006",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "In quale stagione cadono spesso le foglie?",
+      "options": [
+        "Primavera",
+        "Autunno",
+        "Estate",
+        "Inverno"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_it_0007",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Con cosa si osservano le stelle lontane?",
+      "options": [
+        "Termometro",
+        "Lente",
+        "Telescopio",
+        "Bussola"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_it_0008",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quale frutto cresce su un melo?",
+      "options": [
+        "Pera",
+        "Pesca",
+        "Prugna",
+        "Mela"
+      ],
+      "correctIndex": 3,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_it_0009",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Qual è il capoluogo della Toscana?",
+      "options": [
+        "Firenze",
+        "Pisa",
+        "Siena",
+        "Lucca"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_it_0010",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quale fiume attraversa Roma?",
+      "options": [
+        "Po",
+        "Tevere",
+        "Arno",
+        "Adige"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_it_0011",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Su quale isola si trova l'Etna?",
+      "options": [
+        "Sardegna",
+        "Elba",
+        "Sicilia",
+        "Capri"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_it_0012",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quale mare bagna Napoli?",
+      "options": [
+        "Adriatico",
+        "Baltico",
+        "Egeo",
+        "Tirreno"
+      ],
+      "correctIndex": 3,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_it_0013",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "In quale città si trova la Mole Antonelliana?",
+      "options": [
+        "Torino",
+        "Milano",
+        "Genova",
+        "Verona"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_it_0014",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quale catena montuosa attraversa l'Italia da nord a sud?",
+      "options": [
+        "Pirenei",
+        "Appennini",
+        "Ande",
+        "Urali"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_it_0015",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quale gas assorbono le piante durante la fotosintesi?",
+      "options": [
+        "Ossigeno",
+        "Elio",
+        "Anidride carbonica",
+        "Azoto"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_it_0016",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Chi ha scritto Le avventure di Pinocchio?",
+      "options": [
+        "Gianni Rodari",
+        "Italo Calvino",
+        "Emilio Salgari",
+        "Carlo Collodi"
+      ],
+      "correctIndex": 3,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_it_0017",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Chi cantava «Nel blu dipinto di blu»?",
+      "options": [
+        "Domenico Modugno",
+        "Lucio Dalla",
+        "Adriano Celentano",
+        "Edoardo Bennato"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_it_0018",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quale moneta si usava in Italia prima dell'euro?",
+      "options": [
+        "Franco",
+        "Lira",
+        "Peseta",
+        "Marco"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_it_0019",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quale programma televisivo italiano era famoso per gli sketch pubblicitari serali?",
+      "options": [
+        "Quark",
+        "Domenica In",
+        "Carosello",
+        "Fantastico"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_it_0020",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quale regista ha diretto La dolce vita?",
+      "options": [
+        "Vittorio De Sica",
+        "Roberto Rossellini",
+        "Luchino Visconti",
+        "Federico Fellini"
+      ],
+      "correctIndex": 3,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_it_0021",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Chi dipinse La nascita di Venere?",
+      "options": [
+        "Sandro Botticelli",
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raffaello"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_it_0022",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quale veicolo a due ruote fu prodotto dalla Piaggio nel 1946?",
+      "options": [
+        "Ciao",
+        "Vespa",
+        "Lambretta",
+        "Ducati Monster"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_it_0023",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quale città ospita il Festival della canzone italiana?",
+      "options": [
+        "Rimini",
+        "Mantova",
+        "Sanremo",
+        "Perugia"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_it_0024",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Chi scrisse Il barone rampante?",
+      "options": [
+        "Primo Levi",
+        "Alberto Moravia",
+        "Dino Buzzati",
+        "Italo Calvino"
+      ],
+      "correctIndex": 3,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_it_0025",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quale animale costruisce dighe?",
+      "options": [
+        "Castoro",
+        "Riccio",
+        "Lepre",
+        "Scoiattolo"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_it_0026",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quanti minuti ci sono in un'ora?",
+      "options": [
+        "Cinquanta",
+        "Sessanta",
+        "Settanta",
+        "Ottanta"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_it_0027",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quale strumento misura la temperatura?",
+      "options": [
+        "Barometro",
+        "Cronometro",
+        "Termometro",
+        "Altimetro"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_it_0028",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quale città italiana è nota per il Palio?",
+      "options": [
+        "Trieste",
+        "Bari",
+        "Parma",
+        "Siena"
+      ],
+      "correctIndex": 3,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_it_0029",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quale frutto si usa per il limoncello?",
+      "options": [
+        "Limone",
+        "Arancia",
+        "Mela",
+        "Pera"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_it_0030",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quale città italiana è chiamata «la Serenissima»?",
+      "options": [
+        "Napoli",
+        "Venezia",
+        "Bologna",
+        "Genova"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_it_0031",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "In quale regione si trova il lago di Como?",
+      "options": [
+        "Liguria",
+        "Molise",
+        "Lombardia",
+        "Umbria"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_it_0032",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quale scrittore inventò il personaggio del commissario Montalbano?",
+      "options": [
+        "Umberto Eco",
+        "Giorgio Bassani",
+        "Giorgio Scerbanenco",
+        "Andrea Camilleri"
+      ],
+      "correctIndex": 3,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_it_0033",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quale strumento musicale ha tasti bianchi e neri?",
+      "options": [
+        "Pianoforte",
+        "Tamburo",
+        "Flauto",
+        "Violino"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_it_0034",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quale città ospita la Torre pendente?",
+      "options": [
+        "Brescia",
+        "Pisa",
+        "Arezzo",
+        "Modena"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_it_0035",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quale film d'animazione italiano racconta le avventure di una gatta e un gabbiano?",
+      "options": [
+        "La freccia azzurra",
+        "Cipollino",
+        "La gabbianella e il gatto",
+        "Winx Club"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_it_0036",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quale cantante italiana era soprannominata «la tigre di Cremona»?",
+      "options": [
+        "Milva",
+        "Ornella Vanoni",
+        "Patty Pravo",
+        "Mina"
+      ],
+      "correctIndex": 3,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_it_0037",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quale dolce italiano usa mascarpone e caffè?",
+      "options": [
+        "Tiramisù",
+        "Panna cotta",
+        "Cannolo",
+        "Crostata"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_it_0038",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quale artista progettò l'Uomo vitruviano?",
+      "options": [
+        "Donatello",
+        "Leonardo da Vinci",
+        "Caravaggio",
+        "Giorgio Vasari"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_it_0039",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "In quale sport si usa una rete alta e si colpisce la palla con le mani?",
+      "options": [
+        "Tennis",
+        "Pallanuoto",
+        "Pallavolo",
+        "Calcio"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    }
+  ]
+}

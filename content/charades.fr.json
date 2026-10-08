@@ -1,0 +1,355 @@
+{
+  "schemaVersion": 1,
+  "mode": "charades",
+  "language": "fr",
+  "revision": 1,
+  "title": "Mimes – France",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "cha_fr_0001",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Chat",
+      "emoji": "🐈",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_fr_0002",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Chien",
+      "emoji": "🐕",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_fr_0003",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Papillon",
+      "emoji": "🦋",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_fr_0004",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Éléphant",
+      "emoji": "🐘",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_fr_0005",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Se brosser les dents",
+      "emoji": "🪥",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_fr_0006",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Faire du vélo",
+      "emoji": "🚲",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_fr_0007",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Manger une crêpe",
+      "emoji": "🥞",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_fr_0008",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "term": "Ouvrir un parapluie",
+      "emoji": "☂️",
+      "difficulty": 1
+    },
+    {
+      "id": "cha_fr_0009",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "term": "Ramer sur un lac",
+      "emoji": "🚣",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_fr_0010",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "term": "Préparer une baguette",
+      "emoji": "🥖",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_fr_0011",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "term": "Choisir un livre",
+      "emoji": "📚",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_fr_0012",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "term": "Jouer de l'accordéon",
+      "emoji": "🪗",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_fr_0013",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "term": "Prendre une photo",
+      "emoji": "📷",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_fr_0014",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "term": "Planter une fleur",
+      "emoji": "🌼",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_fr_0015",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "term": "Jouer au handball",
+      "emoji": "🤾",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_fr_0016",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "term": "Monter une montagne",
+      "emoji": "⛰️",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_fr_0017",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "term": "Faire voler un cerf-volant",
+      "emoji": "🪁",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_fr_0018",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "term": "Attendre le tramway",
+      "emoji": "🚊",
+      "difficulty": 2
+    },
+    {
+      "id": "cha_fr_0019",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "term": "Peindre un tableau",
+      "emoji": "🎨",
+      "difficulty": 3
+    },
+    {
+      "id": "cha_fr_0020",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "term": "Monter une tente",
+      "emoji": "⛺",
+      "difficulty": 3
+    },
+    {
+      "id": "cha_fr_0021",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "term": "Diriger un orchestre",
+      "emoji": "🎼",
+      "difficulty": 3
+    },
+    {
+      "id": "cha_fr_0022",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "term": "Faire des jongleries",
+      "emoji": "🤹",
+      "difficulty": 3
+    },
+    {
+      "id": "cha_fr_0023",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "term": "Chercher ses lunettes",
+      "emoji": "👓",
+      "difficulty": 3
+    }
+  ]
+}

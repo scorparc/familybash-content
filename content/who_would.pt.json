@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 1,
+  "mode": "who_would",
+  "language": "pt",
+  "revision": 1,
+  "title": "Quem seria mais capaz? – Portugal",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "who_pt_0001",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Quem se lembraria dos aniversários de todos?"
+    },
+    {
+      "id": "who_pt_0002",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Quem encontraria primeiro um tesouro escondido?"
+    },
+    {
+      "id": "who_pt_0003",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Quem prepararia o melhor lanche para uma viagem?"
+    },
+    {
+      "id": "who_pt_0004",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Quem faria rir todos numa longa viagem de comboio?"
+    },
+    {
+      "id": "who_pt_0005",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Quem aprenderia mais depressa uma dança nova?"
+    },
+    {
+      "id": "who_pt_0006",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Quem cuidaria melhor de uma planta?"
+    },
+    {
+      "id": "who_pt_0007",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Quem descobriria um pássaro escondido nas árvores?"
+    },
+    {
+      "id": "who_pt_0008",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Quem inventaria o nome mais engraçado para a equipa?"
+    },
+    {
+      "id": "who_pt_0009",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "text": "Quem se lembraria de levar água para um passeio?"
+    },
+    {
+      "id": "who_pt_0010",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "text": "Quem escolheria o livro ideal para ler em conjunto?"
+    },
+    {
+      "id": "who_pt_0011",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "text": "Quem desenharia o mapa mais fácil de seguir?"
+    },
+    {
+      "id": "who_pt_0012",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "text": "Quem reconheceria uma canção pelas primeiras notas?"
+    },
+    {
+      "id": "who_pt_0013",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "text": "Quem faria o maior castelo de areia?"
+    },
+    {
+      "id": "who_pt_0014",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "text": "Quem organizaria uma visita a um museu?"
+    },
+    {
+      "id": "who_pt_0015",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "text": "Quem encontraria o caminho numa cidade nova?"
+    },
+    {
+      "id": "who_pt_0016",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "text": "Quem prepararia uma tarde de jogos de tabuleiro?"
+    },
+    {
+      "id": "who_pt_0017",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "text": "Quem contaria a melhor história das férias?"
+    },
+    {
+      "id": "who_pt_0018",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "text": "Quem tiraria a fotografia mais original?"
+    },
+    {
+      "id": "who_pt_0019",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "text": "Quem aprenderia uma palavra nova num minuto?"
+    },
+    {
+      "id": "who_pt_0020",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "text": "Quem faria voar um papagaio mais alto?"
+    },
+    {
+      "id": "who_pt_0021",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "text": "Quem animaria toda a gente durante um jogo?"
+    },
+    {
+      "id": "who_pt_0022",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "text": "Quem imitaria melhor o som de um animal?"
+    },
+    {
+      "id": "who_pt_0023",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "text": "Quem escolheria a música de uma festa de família?"
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "schemaVersion": 1,
+  "mode": "truth_or_dare",
+  "language": "pt",
+  "revision": 1,
+  "title": "Verdade ou desafio – Portugal",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "tod_pt_0001",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Que lanche gostarias de preparar para todos?"
+    },
+    {
+      "id": "tod_pt_0002",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Que animal gostarias de ver na natureza?"
+    },
+    {
+      "id": "tod_pt_0003",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Que canção te deixa bem-disposto?"
+    },
+    {
+      "id": "tod_pt_0004",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Que passeio recordas com um sorriso?"
+    },
+    {
+      "id": "tod_pt_0005",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Que coisa nova gostarias de aprender?"
+    },
+    {
+      "id": "tod_pt_0006",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "De que jogo gostavas quando eras mais pequeno?"
+    },
+    {
+      "id": "tod_pt_0007",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Que cidade gostarias de explorar com o grupo?"
+    },
+    {
+      "id": "tod_pt_0008",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Que palavra te parece engraçada?"
+    },
+    {
+      "id": "tod_pt_0009",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Imita o som de três animais."
+    },
+    {
+      "id": "tod_pt_0010",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Inventa uma saudação sem tocar em ninguém."
+    },
+    {
+      "id": "tod_pt_0011",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Trauteia uma melodia durante dez segundos."
+    },
+    {
+      "id": "tod_pt_0012",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Apresenta o teu lanche ideal como num programa de televisão."
+    },
+    {
+      "id": "tod_pt_0013",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Faz de estátua de uma árvore durante cinco segundos."
+    },
+    {
+      "id": "tod_pt_0014",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Diz os meses do ano a começar em dezembro."
+    },
+    {
+      "id": "tod_pt_0015",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Representa uma bicicleta sem usar objetos."
+    },
+    {
+      "id": "tod_pt_0016",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Conta até dez com voz de robô."
+    },
+    {
+      "id": "tod_pt_0017",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Que cheiro te faz lembrar um dia feliz?"
+    },
+    {
+      "id": "tod_pt_0018",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Que história gostarias de ouvir esta noite?"
+    },
+    {
+      "id": "tod_pt_0019",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Que objeto guardarias numa cápsula do tempo?"
+    },
+    {
+      "id": "tod_pt_0020",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Que atividade gostarias de fazer em família?"
+    },
+    {
+      "id": "tod_pt_0021",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Que museu gostarias de visitar?"
+    },
+    {
+      "id": "tod_pt_0022",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Que frase te dá coragem para aprender?"
+    },
+    {
+      "id": "tod_pt_0023",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Que receita gostarias de saber fazer?"
+    },
+    {
+      "id": "tod_pt_0024",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Que hábito da família te faz rir?"
+    },
+    {
+      "id": "tod_pt_0025",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "dare",
+      "text": "Apresenta uma previsão do tempo inventada."
+    },
+    {
+      "id": "tod_pt_0026",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "dare",
+      "text": "Faz uma rima com «mar»."
+    },
+    {
+      "id": "tod_pt_0027",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "dare",
+      "text": "Mostra por gestos como se faz um pastel de nata."
+    },
+    {
+      "id": "tod_pt_0028",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "dare",
+      "text": "Diz cinco frutas em voz alta."
+    },
+    {
+      "id": "tod_pt_0029",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "dare",
+      "text": "Canta uma frase inventada sobre o sol."
+    },
+    {
+      "id": "tod_pt_0030",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "dare",
+      "text": "Representa um comboio a sair da estação."
+    },
+    {
+      "id": "tod_pt_0031",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "dare",
+      "text": "Descreve um castelo de areia imaginário."
+    }
+  ]
+}

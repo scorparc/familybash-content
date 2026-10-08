@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "mode": "quiz",
+  "language": "en",
+  "revision": 4,
+  "title": "Quiz – Core EN",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "qz_en_0001",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "What color do you get when you mix blue and yellow?",
+      "options": ["Purple", "Green", "Orange", "Pink"],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_en_0002",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "How many legs does a spider have?",
+      "options": ["6", "8", "4", "10"],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_en_0003",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Which animal says \"moo\"?",
+      "options": ["Dog", "Cat", "Cow", "Duck"],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_en_0004",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "In the fairy tale, what did Little Red Riding Hood wear on her head?",
+      "options": ["A blue hat", "A red hood", "A green scarf", "A golden crown"],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_en_0005",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "How many days are there in one week?",
+      "options": ["5", "6", "7", "8"],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_en_0006",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "What shape has three sides?",
+      "options": ["Square", "Circle", "Triangle", "Rectangle"],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_en_0007",
+      "ageBands": ["teen", "adult"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_en_0008",
+      "ageBands": ["teen", "adult"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_en_0009",
+      "ageBands": ["teen", "adult"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correctIndex": 3,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_en_0010",
+      "ageBands": ["teen", "adult"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "How many players are on the field per team in a standard football (soccer) match?",
+      "options": ["9", "10", "11", "12"],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_en_0011",
+      "ageBands": ["teen", "adult"],
+      "filter": "family",
+      "tier": "pro",
+      "question": "Which artist painted the Mona Lisa?",
+      "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Vincent van Gogh"],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_en_0012",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_en_0013",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "In which year did the Second World War end?",
+      "options": ["1943", "1945", "1948", "1950"],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_en_0014",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "What is the capital city of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_en_0015",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Which scientist proposed the theory of general relativity?",
+      "options": ["Isaac Newton", "Niels Bohr", "Albert Einstein", "Galileo Galilei"],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_en_0016",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "In which decade did the first Moon landing take place?",
+      "options": ["1950s", "1960s", "1970s", "1980s"],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_en_0017",
+      "ageBands": ["senior"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Who sang \"What a Wonderful World\" (1967)?",
+      "options": ["Frank Sinatra", "Louis Armstrong", "Elvis Presley", "Nat King Cole"],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_en_0018",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "In which year did the Berlin Wall fall?",
+      "options": ["1985", "1987", "1989", "1991"],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_en_0019",
+      "ageBands": ["senior"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Who was the British Prime Minister during most of World War II?",
+      "options": ["Winston Churchill", "Neville Chamberlain", "Clement Attlee", "Harold Wilson"],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_en_0020",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Which composer wrote the \"Ode to Joy\"?",
+      "options": ["Mozart", "Beethoven", "Bach", "Haydn"],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_en_0021",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Which animal usually says meow?",
+      "options": ["Dog", "Cat", "Cow", "Duck"],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_en_0022",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "How many days are in a week?",
+      "options": ["Five", "Six", "Seven", "Eight"],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_en_0023",
+      "ageBands": ["teen", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Which ocean is the largest?",
+      "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_en_0024",
+      "ageBands": ["teen"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "What percentage is three quarters?",
+      "options": ["25 percent", "50 percent", "75 percent", "80 percent"],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_en_0025",
+      "ageBands": ["teen"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Which planet is known as the red planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_en_0026",
+      "ageBands": ["teen"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Which instrument usually has 88 keys?",
+      "options": ["Piano", "Violin", "Flute", "Trumpet"],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {"id":"qz_en_0027","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Which planet is closest to the Sun?","options":["Mercury","Venus","Earth","Mars"],"correctIndex":0,"difficulty":2},
+    {"id":"qz_en_0028","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"How many sides does a hexagon have?","options":["Five","Six","Seven","Eight"],"correctIndex":1,"difficulty":2},
+    {"id":"qz_en_0029","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"What is the largest living land mammal?","options":["Giraffe","Rhino","Elephant","Hippo"],"correctIndex":2,"difficulty":2},
+    {"id":"qz_en_0030","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"What does a thermometer measure?","options":["Wind","Temperature","Time","Sound"],"correctIndex":1,"difficulty":2},
+    {"id":"qz_en_0031","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Which instrument has black and white keys?","options":["Drum","Flute","Piano","Violin"],"correctIndex":2,"difficulty":2},
+    {"id":"qz_en_0032","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Which continent is the Sahara in?","options":["Asia","Africa","Europe","Australia"],"correctIndex":1,"difficulty":2},
+    {"id":"qz_en_0033","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"What color do blue and yellow make?","options":["Orange","Green","Purple","Red"],"correctIndex":1,"difficulty":2},
+    {"id":"qz_en_0034","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"What line divides Earth into northern and southern halves?","options":["Equator","Meridian","Horizon","Polar Circle"],"correctIndex":0,"difficulty":2},
+    {"id":"qz_en_0035","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Which bird can fly backwards?","options":["Sparrow","Penguin","Hummingbird","Stork"],"correctIndex":2,"difficulty":2},
+    {"id":"qz_en_0036","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"How many minutes are in a quarter of an hour?","options":["10","15","20","25"],"correctIndex":1,"difficulty":2},
+    {"id":"qz_en_0037","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"What gives most plant leaves their green color?","options":["Chlorophyll","Lime","Salt","Iron"],"correctIndex":0,"difficulty":2},
+    {"id":"qz_en_0038","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Which ocean is the largest?","options":["Atlantic","Indian","Pacific","Arctic"],"correctIndex":2,"difficulty":2}
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "schemaVersion": 1,
+  "mode": "impostor",
+  "language": "es",
+  "revision": 1,
+  "title": "Impostor – España",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "imp_es_0001",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animales",
+      "word": "Gato",
+      "emoji": "🐈"
+    },
+    {
+      "id": "imp_es_0002",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animales",
+      "word": "Perro",
+      "emoji": "🐕"
+    },
+    {
+      "id": "imp_es_0003",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animales",
+      "word": "Delfín",
+      "emoji": "🐬"
+    },
+    {
+      "id": "imp_es_0004",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animales",
+      "word": "Mariposa",
+      "emoji": "🦋"
+    },
+    {
+      "id": "imp_es_0005",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Comida",
+      "word": "Paella",
+      "emoji": "🥘"
+    },
+    {
+      "id": "imp_es_0006",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Comida",
+      "word": "Churros",
+      "emoji": "🥨"
+    },
+    {
+      "id": "imp_es_0007",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Transporte",
+      "word": "Bicicleta",
+      "emoji": "🚲"
+    },
+    {
+      "id": "imp_es_0008",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Naturaleza",
+      "word": "Sol",
+      "emoji": "☀️"
+    },
+    {
+      "id": "imp_es_0009",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Comida",
+      "word": "Tortilla de patatas",
+      "emoji": "🥔"
+    },
+    {
+      "id": "imp_es_0010",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Comida",
+      "word": "Gazpacho",
+      "emoji": "🍅"
+    },
+    {
+      "id": "imp_es_0011",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Comida",
+      "word": "Naranja",
+      "emoji": "🍊"
+    },
+    {
+      "id": "imp_es_0012",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Lugares",
+      "word": "Playa",
+      "emoji": "🏖️"
+    },
+    {
+      "id": "imp_es_0013",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Lugares",
+      "word": "Parque",
+      "emoji": "🌳"
+    },
+    {
+      "id": "imp_es_0014",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Lugares",
+      "word": "Biblioteca",
+      "emoji": "📚"
+    },
+    {
+      "id": "imp_es_0015",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Transporte",
+      "word": "Tren",
+      "emoji": "🚆"
+    },
+    {
+      "id": "imp_es_0016",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Transporte",
+      "word": "Barco",
+      "emoji": "🚢"
+    },
+    {
+      "id": "imp_es_0017",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Objetos",
+      "word": "Paraguas",
+      "emoji": "☂️"
+    },
+    {
+      "id": "imp_es_0018",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Objetos",
+      "word": "Mochila",
+      "emoji": "🎒"
+    },
+    {
+      "id": "imp_es_0019",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Naturaleza",
+      "word": "Montaña",
+      "emoji": "⛰️"
+    },
+    {
+      "id": "imp_es_0020",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Naturaleza",
+      "word": "Arcoíris",
+      "emoji": "🌈"
+    },
+    {
+      "id": "imp_es_0021",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Música",
+      "word": "Guitarra",
+      "emoji": "🎸"
+    },
+    {
+      "id": "imp_es_0022",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Deporte",
+      "word": "Balón",
+      "emoji": "⚽"
+    },
+    {
+      "id": "imp_es_0023",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Animales",
+      "word": "Caballo",
+      "emoji": "🐎"
+    }
+  ]
+}

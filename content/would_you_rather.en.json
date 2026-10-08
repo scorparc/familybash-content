@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "mode": "would_you_rather",
+  "language": "en",
+  "revision": 3,
+  "title": "Would you rather – Core EN",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "wyr_en_0001",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "be able to fly",
+      "optionB": "be invisible"
+    },
+    {
+      "id": "wyr_en_0002",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "have a pet dragon",
+      "optionB": "have a talking cat"
+    },
+    {
+      "id": "wyr_en_0003",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "eat pizza every day",
+      "optionB": "eat ice cream every day"
+    },
+    {
+      "id": "wyr_en_0004",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "be able to talk to animals",
+      "optionB": "be able to speak every language"
+    },
+    {
+      "id": "wyr_en_0005",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "live in a giant treehouse",
+      "optionB": "live in a cozy underwater house"
+    },
+    {
+      "id": "wyr_en_0006",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult"],
+      "filter": "family",
+      "tier": "free",
+      "optionA": "have super strength",
+      "optionB": "have super speed"
+    },
+    {
+      "id": "wyr_en_0007",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "travel to the past",
+      "optionB": "travel to the future"
+    },
+    {
+      "id": "wyr_en_0008",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "always have great weather on the weekend",
+      "optionB": "never sit in traffic again"
+    },
+    {
+      "id": "wyr_en_0009",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "explore a new city every month",
+      "optionB": "have one favorite place you return to forever"
+    },
+    {
+      "id": "wyr_en_0010",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "relive your best day from the past",
+      "optionB": "get a perfect brand-new day tomorrow"
+    },
+    {
+      "id": "wyr_en_0011",
+      "ageBands": ["kid_10_13", "teen", "adult"],
+      "filter": "family",
+      "tier": "free",
+      "optionA": "always know the perfect thing to say",
+      "optionB": "always know exactly where you left your keys"
+    },
+    {
+      "id": "wyr_en_0012",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult"],
+      "filter": "wild_lite",
+      "tier": "free",
+      "optionA": "sneeze glitter every time you sneeze",
+      "optionB": "burp a little tune every time you burp"
+    },
+    {
+      "id": "wyr_en_0013",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "free",
+      "optionA": "always have spinach stuck in your teeth",
+      "optionB": "always have your shirt on inside out"
+    },
+    {
+      "id": "wyr_en_0014",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "pro",
+      "optionA": "sing everything you say for a whole day",
+      "optionB": "dance every time you walk into a room for a day"
+    },
+    {
+      "id": "wyr_en_0015",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "have summer all year round",
+      "optionB": "have winter all year round"
+    },
+    {
+      "id": "wyr_en_0016",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "watch a sunrise",
+      "optionB": "watch a sunset"
+    },
+    {
+      "id": "wyr_en_0017",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "build a blanket fort",
+      "optionB": "build a pillow tower"
+    },
+    {
+      "id": "wyr_en_0018",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "have a picnic in the garden",
+      "optionB": "have a picnic in the living room"
+    },
+    {"id":"wyr_en_0019","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"spend a day swimming with dolphins","optionB":"spend a day with penguins"},
+    {"id":"wyr_en_0020","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"have a treehouse library","optionB":"have a secret garden cinema"},
+    {"id":"wyr_en_0021","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"travel in a hot-air balloon","optionB":"travel on a sailboat"},
+    {"id":"wyr_en_0022","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"understand every language","optionB":"play every instrument"},
+    {"id":"wyr_en_0023","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"see a rainbow up close","optionB":"watch a shooting star"},
+    {"id":"wyr_en_0024","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"invent a board game","optionB":"create a picture book"},
+    {"id":"wyr_en_0025","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"spend a week by the sea","optionB":"spend a week in the mountains"},
+    {"id":"wyr_en_0026","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"cook with a robot","optionB":"garden with a robot"},
+    {"id":"wyr_en_0027","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"visit the distant past","optionB":"visit the distant future"},
+    {"id":"wyr_en_0028","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"host a treasure hunt","optionB":"host a puzzle tournament"},
+    {"id":"wyr_en_0029","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"build a treehouse","optionB":"build a blanket fort"},
+    {"id":"wyr_en_0030","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"breathe underwater","optionB":"float above the clouds"}
+  ]
+}

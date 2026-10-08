@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "mode": "quiz",
+  "language": "de",
+  "revision": 4,
+  "title": "Quiz – Basis DE",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "qz_de_0001",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Welche Farbe hat der Himmel an einem klaren, sonnigen Tag?",
+      "options": ["Grün", "Blau", "Rot", "Braun"],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_de_0002",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Welches Tier sagt \"Miau\"?",
+      "options": ["Hund", "Kuh", "Katze", "Ente"],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_de_0003",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Wie viele Beine hat eine Spinne?",
+      "options": ["6", "8", "4", "10"],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_de_0004",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Im Märchen hinterlässt Aschenputtel beim Verlassen des Balls einen Gegenstand. Was ist es?",
+      "options": ["Ein Schuh", "Ein Hut", "Ein Handschuh", "Ein Ring"],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_de_0005",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Was ergibt 2 + 3?",
+      "options": ["4", "5", "6", "7"],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_de_0006",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Welche Farbe entsteht, wenn man Blau und Gelb mischt?",
+      "options": ["Grün", "Lila", "Orange", "Grau"],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_de_0007",
+      "ageBands": ["teen", "adult"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Wie viele Kontinente gibt es auf der Erde?",
+      "options": ["5", "6", "7", "8"],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_de_0008",
+      "ageBands": ["teen", "adult"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Welches Gas atmen Menschen zum Leben ein?",
+      "options": ["Stickstoff", "Sauerstoff", "Kohlendioxid", "Helium"],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_de_0009",
+      "ageBands": ["teen", "adult"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Wie heißt die Hauptstadt von Frankreich?",
+      "options": ["Lyon", "Marseille", "Paris", "Nizza"],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_de_0010",
+      "ageBands": ["teen", "adult"],
+      "filter": "family",
+      "tier": "free",
+      "question": "Welcher Planet ist der Sonne am nächsten?",
+      "options": ["Venus", "Merkur", "Mars", "Erde"],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_de_0011",
+      "ageBands": ["teen", "adult"],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Wie viele Spieler stehen bei einer Fußballmannschaft gleichzeitig auf dem Feld?",
+      "options": ["9", "10", "11", "12"],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_de_0012",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "In welchem Jahr fiel die Berliner Mauer?",
+      "options": ["1987", "1989", "1991", "1985"],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_de_0013",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Welcher Fluss ist der längste der Welt?",
+      "options": ["Amazonas", "Nil", "Jangtsekiang", "Mississippi"],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_de_0014",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Welches chemische Element hat das Symbol \"Au\"?",
+      "options": ["Silber", "Aluminium", "Gold", "Kupfer"],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_de_0015",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Wer entwickelte die Relativitätstheorie?",
+      "options": ["Isaac Newton", "Nikola Tesla", "Albert Einstein", "Galileo Galilei"],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_de_0016",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Welche Währung hatte Deutschland vor dem Euro?",
+      "options": ["Schilling", "D-Mark", "Gulden", "Franken"],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_de_0017",
+      "ageBands": ["senior"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Wer sang den Schlager „Marmor, Stein und Eisen bricht\"?",
+      "options": ["Drafi Deutscher", "Udo Jürgens", "Peter Alexander", "Roy Black"],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_de_0019",
+      "ageBands": ["senior"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?",
+      "options": ["Konrad Adenauer", "Willy Brandt", "Ludwig Erhard", "Helmut Schmidt"],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_de_0020",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Welcher Komponist schrieb die „Ode an die Freude\"?",
+      "options": ["Mozart", "Beethoven", "Bach", "Haydn"],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_de_0021",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Welches Tier macht meist Miau?",
+      "options": ["Hund", "Katze", "Kuh", "Ente"],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_de_0022",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Wie viele Tage hat eine Woche?",
+      "options": ["Fünf", "Sechs", "Sieben", "Acht"],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_de_0023",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Welches chemische Symbol steht für Sauerstoff?",
+      "options": ["O", "S", "C", "N"],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_de_0024",
+      "ageBands": ["teen", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Welcher Ozean ist der größte?",
+      "options": ["Atlantik", "Pazifik", "Indischer Ozean", "Arktischer Ozean"],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_de_0025",
+      "ageBands": ["teen"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Wer schrieb die Geschichten von Pippi Langstrumpf?",
+      "options": ["Astrid Lindgren", "Michael Ende", "Erich Kästner", "Otfried Preußler"],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_de_0026",
+      "ageBands": ["teen"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Wie viel Prozent sind drei Viertel?",
+      "options": ["25 Prozent", "50 Prozent", "75 Prozent", "80 Prozent"],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_de_0027",
+      "ageBands": ["teen"],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Welcher Planet wird der rote Planet genannt?",
+      "options": ["Venus", "Mars", "Jupiter", "Merkur"],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {"id":"qz_de_0028","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Welcher Planet ist der Sonne am nächsten?","options":["Merkur","Venus","Erde","Mars"],"correctIndex":0,"difficulty":2},
+    {"id":"qz_de_0029","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Wie viele Seiten hat ein Sechseck?","options":["Fünf","Sechs","Sieben","Acht"],"correctIndex":1,"difficulty":2},
+    {"id":"qz_de_0030","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Welches Tier ist das größte lebende Landsäugetier?","options":["Giraffe","Nashorn","Elefant","Flusspferd"],"correctIndex":2,"difficulty":2},
+    {"id":"qz_de_0031","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Was misst ein Thermometer?","options":["Wind","Temperatur","Zeit","Lautstärke"],"correctIndex":1,"difficulty":2},
+    {"id":"qz_de_0032","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Welches Instrument hat schwarze und weiße Tasten?","options":["Trommel","Flöte","Klavier","Geige"],"correctIndex":2,"difficulty":2},
+    {"id":"qz_de_0033","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Auf welchem Kontinent liegt die Sahara?","options":["Asien","Afrika","Europa","Australien"],"correctIndex":1,"difficulty":2},
+    {"id":"qz_de_0034","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Welche Farbe entsteht aus Blau und Gelb?","options":["Orange","Grün","Violett","Rot"],"correctIndex":1,"difficulty":2},
+    {"id":"qz_de_0035","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Wie heißt die Linie, die die Erde in Nord und Süd teilt?","options":["Äquator","Meridian","Horizont","Polarkreis"],"correctIndex":0,"difficulty":2},
+    {"id":"qz_de_0036","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Welcher Vogel kann rückwärts fliegen?","options":["Spatz","Pinguin","Kolibri","Storch"],"correctIndex":2,"difficulty":2},
+    {"id":"qz_de_0037","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Wie viele Minuten hat eine Viertelstunde?","options":["10","15","20","25"],"correctIndex":1,"difficulty":2},
+    {"id":"qz_de_0038","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Welcher Stoff macht Pflanzenblätter meist grün?","options":["Chlorophyll","Kalk","Salz","Eisen"],"correctIndex":0,"difficulty":2},
+    {"id":"qz_de_0039","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","question":"Welcher Ozean ist der größte?","options":["Atlantik","Indischer Ozean","Pazifik","Arktischer Ozean"],"correctIndex":2,"difficulty":2}
+  ]
+}

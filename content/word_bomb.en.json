@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "mode": "word_bomb",
+  "language": "en",
+  "revision": 2,
+  "title": "Word Bomb – Core EN",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "wb_en_0001",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animals",
+      "examples": "e.g. dog, cat, horse"
+    },
+    {
+      "id": "wb_en_0002",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Fruits & Vegetables",
+      "examples": "e.g. apple, banana, carrot"
+    },
+    {
+      "id": "wb_en_0003",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Colors",
+      "examples": "e.g. red, blue, green"
+    },
+    {
+      "id": "wb_en_0004",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Toys & Games",
+      "examples": "e.g. ball, doll, teddy bear"
+    },
+    {
+      "id": "wb_en_0005",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Body Parts",
+      "examples": "e.g. hand, nose, foot"
+    },
+    {
+      "id": "wb_en_0006",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Things in the Bathroom",
+      "examples": "e.g. towel, soap, toothbrush"
+    },
+    {
+      "id": "wb_en_0007",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Things in the Kitchen",
+      "examples": "e.g. spoon, plate, fridge"
+    },
+    {
+      "id": "wb_en_0008",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Clothes",
+      "examples": "e.g. shirt, socks, hat"
+    },
+    {
+      "id": "wb_en_0009",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Things You Find Outside",
+      "examples": "e.g. tree, rock, flower"
+    },
+    {
+      "id": "wb_en_0010",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Things That Can Fly",
+      "examples": "e.g. bird, plane, kite"
+    },
+    {
+      "id": "wb_en_0011",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Countries",
+      "examples": "e.g. France, Brazil, Japan"
+    },
+    {
+      "id": "wb_en_0012",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Car Brands",
+      "examples": "e.g. Toyota, Ford, BMW"
+    },
+    {
+      "id": "wb_en_0013",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Movies",
+      "examples": "e.g. Frozen, Titanic, Avatar"
+    },
+    {
+      "id": "wb_en_0014",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Famous People",
+      "examples": "e.g. Einstein, Beyoncé, Gandhi"
+    },
+    {
+      "id": "wb_en_0015",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Capital Cities",
+      "examples": "e.g. Paris, Tokyo, Cairo"
+    },
+    {
+      "id": "wb_en_0016",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "pro",
+      "category": "Soccer Teams",
+      "examples": "e.g. Barcelona, Liverpool, Bayern"
+    },
+    {
+      "id": "wb_en_0017",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Jobs & Professions",
+      "examples": "e.g. teacher, doctor, baker"
+    },
+    {
+      "id": "wb_en_0018",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Musical Instruments",
+      "examples": "e.g. guitar, piano, violin"
+    },
+    {"id":"wb_en_0019","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Things in the sky","examples":"e.g. cloud, star, airplane"},
+    {"id":"wb_en_0020","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Inventions","examples":"e.g. bicycle, compass, magnifier"},
+    {"id":"wb_en_0021","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Words with double letters","examples":"e.g. balloon, coffee, letter"},
+    {"id":"wb_en_0022","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Things in a museum","examples":"e.g. painting, fossil, statue"},
+    {"id":"wb_en_0023","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Sounds in nature","examples":"e.g. thunder, birdsong, waterfall"},
+    {"id":"wb_en_0024","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Jobs that use tools","examples":"e.g. gardener, carpenter, baker"},
+    {"id":"wb_en_0025","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Things on a trip","examples":"e.g. ticket, suitcase, map"},
+    {"id":"wb_en_0026","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Striped or spotted animals","examples":"e.g. zebra, ladybug, tiger"},
+    {"id":"wb_en_0027","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Things that roll","examples":"e.g. marble, wheel, ball"},
+    {"id":"wb_en_0028","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Words about space","examples":"e.g. planet, rocket, comet"},
+    {"id":"wb_en_0029","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Things in a library","examples":"e.g. book, shelf, bookmark"},
+    {"id":"wb_en_0030","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Things at the beach","examples":"e.g. shell, sandcastle, wave"}
+  ]
+}

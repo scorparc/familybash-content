@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "mode": "word_bomb",
+  "language": "fr",
+  "revision": 1,
+  "title": "Bombe à mots – France",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "wb_fr_0001",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animaux de la ferme",
+      "examples": "vache, poule, mouton"
+    },
+    {
+      "id": "wb_fr_0002",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Fruits",
+      "examples": "pomme, poire, cerise"
+    },
+    {
+      "id": "wb_fr_0003",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Couleurs",
+      "examples": "rouge, bleu, vert"
+    },
+    {
+      "id": "wb_fr_0004",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "À la plage",
+      "examples": "sable, serviette, parasol"
+    },
+    {
+      "id": "wb_fr_0005",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Moyens de transport",
+      "examples": "train, vélo, bateau"
+    },
+    {
+      "id": "wb_fr_0006",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Au petit déjeuner",
+      "examples": "pain, fruit, yaourt"
+    },
+    {
+      "id": "wb_fr_0007",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "À l'école",
+      "examples": "crayon, cahier, cartable"
+    },
+    {
+      "id": "wb_fr_0008",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Arbres",
+      "examples": "chêne, sapin, olivier"
+    },
+    {
+      "id": "wb_fr_0009",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Villes françaises",
+      "examples": "Lyon, Nantes, Toulouse"
+    },
+    {
+      "id": "wb_fr_0010",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Sports",
+      "examples": "football, tennis, handball"
+    },
+    {
+      "id": "wb_fr_0011",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Instruments de musique",
+      "examples": "piano, accordéon, flûte"
+    },
+    {
+      "id": "wb_fr_0012",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Vêtements",
+      "examples": "chemise, manteau, casquette"
+    },
+    {
+      "id": "wb_fr_0013",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Légumes",
+      "examples": "carotte, poireau, tomate"
+    },
+    {
+      "id": "wb_fr_0014",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Animaux marins",
+      "examples": "dauphin, poulpe, sardine"
+    },
+    {
+      "id": "wb_fr_0015",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Mots commençant par P",
+      "examples": "pomme, porte, papier"
+    },
+    {
+      "id": "wb_fr_0016",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Dans un parc",
+      "examples": "banc, arbre, balançoire"
+    },
+    {
+      "id": "wb_fr_0017",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Objets qui roulent",
+      "examples": "roue, ballon, bille"
+    },
+    {
+      "id": "wb_fr_0018",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Fleuves français",
+      "examples": "Seine, Loire, Rhône"
+    },
+    {
+      "id": "wb_fr_0019",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Métiers",
+      "examples": "boulanger, médecin, menuisier"
+    },
+    {
+      "id": "wb_fr_0020",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Ce qui vole",
+      "examples": "oiseau, cerf-volant, avion"
+    },
+    {
+      "id": "wb_fr_0021",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Jeux de société",
+      "examples": "échecs, domino, petits chevaux"
+    },
+    {
+      "id": "wb_fr_0022",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Desserts français",
+      "examples": "crêpe, flan, clafoutis"
+    },
+    {
+      "id": "wb_fr_0023",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Villes au bord de la mer",
+      "examples": "Nice, Brest, Marseille"
+    }
+  ]
+}

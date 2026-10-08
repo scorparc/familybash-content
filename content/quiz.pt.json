@@ -1,0 +1,764 @@
+{
+  "schemaVersion": 1,
+  "mode": "quiz",
+  "language": "pt",
+  "revision": 1,
+  "title": "Duelo de perguntas – Portugal",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "qz_pt_0001",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quantas patas tem uma aranha?",
+      "options": [
+        "Oito",
+        "Seis",
+        "Quatro",
+        "Dez"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_pt_0002",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Que cor resulta da mistura de azul e amarelo?",
+      "options": [
+        "Roxo",
+        "Verde",
+        "Laranja",
+        "Vermelho"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_pt_0003",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quantos dias tem uma semana?",
+      "options": [
+        "Cinco",
+        "Seis",
+        "Sete",
+        "Oito"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_pt_0004",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Que animal transporta a casa às costas?",
+      "options": [
+        "Raposa",
+        "Pato",
+        "Cavalo",
+        "Caracol"
+      ],
+      "correctIndex": 3,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_pt_0005",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Que forma tem três lados?",
+      "options": [
+        "Triângulo",
+        "Quadrado",
+        "Círculo",
+        "Retângulo"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_pt_0006",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Em que estação caem muitas folhas das árvores?",
+      "options": [
+        "Primavera",
+        "Outono",
+        "Verão",
+        "Inverno"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_pt_0007",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Com que instrumento se observam estrelas distantes?",
+      "options": [
+        "Termómetro",
+        "Lupa",
+        "Telescópio",
+        "Bússola"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_pt_0008",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Que fruto cresce numa macieira?",
+      "options": [
+        "Pera",
+        "Pêssego",
+        "Ameixa",
+        "Maçã"
+      ],
+      "correctIndex": 3,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_pt_0009",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Qual é a capital do Alentejo?",
+      "options": [
+        "Évora",
+        "Beja",
+        "Portalegre",
+        "Santarém"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_pt_0010",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Que rio atravessa Lisboa?",
+      "options": [
+        "Douro",
+        "Tejo",
+        "Mondego",
+        "Sado"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_pt_0011",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Em que cidade se encontra a Torre dos Clérigos?",
+      "options": [
+        "Braga",
+        "Coimbra",
+        "Porto",
+        "Faro"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_pt_0012",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Qual é a montanha mais alta de Portugal continental?",
+      "options": [
+        "Pico",
+        "Foia",
+        "Marão",
+        "Torre"
+      ],
+      "correctIndex": 3,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_pt_0013",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Que oceano banha a costa de Portugal continental?",
+      "options": [
+        "Atlântico",
+        "Índico",
+        "Pacífico",
+        "Ártico"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_pt_0014",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Em que cidade se encontra a Universidade mais antiga do país?",
+      "options": [
+        "Aveiro",
+        "Coimbra",
+        "Viseu",
+        "Leiria"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_pt_0015",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Que gás absorvem as plantas na fotossíntese?",
+      "options": [
+        "Oxigénio",
+        "Hélio",
+        "Dióxido de carbono",
+        "Azoto"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_pt_0016",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quem escreveu A Menina do Mar?",
+      "options": [
+        "Eça de Queirós",
+        "José Saramago",
+        "Alice Vieira",
+        "Sophia de Mello Breyner Andresen"
+      ],
+      "correctIndex": 3,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_pt_0017",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Que cantora portuguesa ficou conhecida como «rainha do fado»?",
+      "options": [
+        "Amália Rodrigues",
+        "Simone de Oliveira",
+        "Dulce Pontes",
+        "Mariza"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_pt_0018",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Que moeda se usava em Portugal antes do euro?",
+      "options": [
+        "Real",
+        "Escudo",
+        "Peseta",
+        "Lira"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_pt_0019",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Que avançado português era conhecido como «Pantera Negra»?",
+      "options": [
+        "Luís Figo",
+        "Pauleta",
+        "Eusébio",
+        "Cristiano Ronaldo"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_pt_0020",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Que exposição internacional decorreu em Lisboa em 1998?",
+      "options": [
+        "Expo 2000",
+        "Expo 92",
+        "Expo 2010",
+        "Expo 98"
+      ],
+      "correctIndex": 3,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_pt_0021",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Que escritor criou a família retratada em Os Maias?",
+      "options": [
+        "Eça de Queirós",
+        "Camilo Castelo Branco",
+        "Fernando Pessoa",
+        "Júlio Dinis"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_pt_0022",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Qual é o estilo musical tradicional associado a Lisboa e Coimbra?",
+      "options": [
+        "Tango",
+        "Fado",
+        "Flamenco",
+        "Polca"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_pt_0023",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Que arquipélago português inclui a ilha de São Miguel?",
+      "options": [
+        "Madeira",
+        "Berlengas",
+        "Açores",
+        "Cíes"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_pt_0024",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Que programa português de 1969 reuniu Fialho Gouveia e Raul Solnado?",
+      "options": [
+        "Hermanias",
+        "Praça da Alegria",
+        "Chuva de Estrelas",
+        "Zip-Zip"
+      ],
+      "correctIndex": 3,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_pt_0025",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Que animal constrói barragens?",
+      "options": [
+        "Castor",
+        "Ouriço",
+        "Lebre",
+        "Esquilo"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_pt_0026",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quantos minutos tem uma hora?",
+      "options": [
+        "Cinquenta",
+        "Sessenta",
+        "Setenta",
+        "Oitenta"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_pt_0027",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Que instrumento mede a temperatura?",
+      "options": [
+        "Barómetro",
+        "Cronómetro",
+        "Termómetro",
+        "Altímetro"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_pt_0028",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Que cidade portuguesa é conhecida pelos ovos moles?",
+      "options": [
+        "Chaves",
+        "Guimarães",
+        "Portimão",
+        "Aveiro"
+      ],
+      "correctIndex": 3,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_pt_0029",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Que fruto é usado para fazer sumo de laranja?",
+      "options": [
+        "Laranja",
+        "Maçã",
+        "Figo",
+        "Pera"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_pt_0030",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Em que concelho fica o Palácio da Pena?",
+      "options": [
+        "Cascais",
+        "Sintra",
+        "Mafra",
+        "Loures"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_pt_0031",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Que cidade portuguesa é conhecida como «cidade dos estudantes»?",
+      "options": [
+        "Setúbal",
+        "Bragança",
+        "Coimbra",
+        "Tavira"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_pt_0032",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quem escreveu Viagem a Portugal?",
+      "options": [
+        "Miguel Torga",
+        "António Lobo Antunes",
+        "Almeida Garrett",
+        "José Saramago"
+      ],
+      "correctIndex": 3,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_pt_0033",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Que instrumento português de doze cordas acompanha frequentemente o fado?",
+      "options": [
+        "Guitarra portuguesa",
+        "Ukulele",
+        "Bandolim",
+        "Harpa"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_pt_0034",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Que rio passa pela cidade do Porto?",
+      "options": [
+        "Tejo",
+        "Douro",
+        "Mondego",
+        "Guadiana"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_pt_0035",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Que realizador português dirigiu Aniki-Bóbó?",
+      "options": [
+        "João César Monteiro",
+        "Miguel Gomes",
+        "Manoel de Oliveira",
+        "Pedro Costa"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_pt_0036",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Que cantor português gravou «Canção do Mar» em 1993?",
+      "options": [
+        "Rui Veloso",
+        "António Variações",
+        "Pedro Abrunhosa",
+        "Dulce Pontes"
+      ],
+      "correctIndex": 3,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_pt_0037",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Que doce de Belém é feito com creme de ovos e massa folhada?",
+      "options": [
+        "Pastel de nata",
+        "Arroz doce",
+        "Pão de ló",
+        "Bolo de arroz"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_pt_0038",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quem escreveu o poema «Mar Português»?",
+      "options": [
+        "Luís de Camões",
+        "Fernando Pessoa",
+        "Florbela Espanca",
+        "Sophia de Mello Breyner Andresen"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_pt_0039",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Em que desporto se usa uma rede e se bate na bola com as mãos?",
+      "options": [
+        "Ténis",
+        "Futebol",
+        "Voleibol",
+        "Ciclismo"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    }
+  ]
+}

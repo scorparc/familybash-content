@@ -1,0 +1,444 @@
+{
+  "schemaVersion": 1,
+  "mode": "truth_or_dare",
+  "language": "fr",
+  "revision": 1,
+  "title": "Action ou vérité – France",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "tod_fr_0001",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Quel goûter aimerais-tu préparer pour tout le monde ?"
+    },
+    {
+      "id": "tod_fr_0002",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Quel animal aimerais-tu voir en pleine nature ?"
+    },
+    {
+      "id": "tod_fr_0003",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Quelle chanson te met de bonne humeur ?"
+    },
+    {
+      "id": "tod_fr_0004",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Quel souvenir de promenade te fait sourire ?"
+    },
+    {
+      "id": "tod_fr_0005",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Quelle nouvelle activité voudrais-tu essayer ?"
+    },
+    {
+      "id": "tod_fr_0006",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Quel jeu aimais-tu quand tu étais petit ?"
+    },
+    {
+      "id": "tod_fr_0007",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Quelle ville aimerais-tu découvrir avec le groupe ?"
+    },
+    {
+      "id": "tod_fr_0008",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Quel mot te semble particulièrement drôle ?"
+    },
+    {
+      "id": "tod_fr_0009",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Imite trois animaux sans utiliser de mots."
+    },
+    {
+      "id": "tod_fr_0010",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Invente un salut amusant sans toucher personne."
+    },
+    {
+      "id": "tod_fr_0011",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Fredonne un air connu pendant dix secondes."
+    },
+    {
+      "id": "tod_fr_0012",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Présente ton goûter idéal comme à la télévision."
+    },
+    {
+      "id": "tod_fr_0013",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Fais la statue d'un arbre pendant cinq secondes."
+    },
+    {
+      "id": "tod_fr_0014",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Dis les mois de l'année en commençant par décembre."
+    },
+    {
+      "id": "tod_fr_0015",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Mime un vélo sans objet."
+    },
+    {
+      "id": "tod_fr_0016",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Compte jusqu'à dix avec une voix de robot."
+    },
+    {
+      "id": "tod_fr_0017",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Quelle odeur te rappelle un bon souvenir ?"
+    },
+    {
+      "id": "tod_fr_0018",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Quelle histoire aimerais-tu entendre ce soir ?"
+    },
+    {
+      "id": "tod_fr_0019",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Que mettrais-tu dans une capsule temporelle ?"
+    },
+    {
+      "id": "tod_fr_0020",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Quelle sortie aimerais-tu faire en famille ?"
+    },
+    {
+      "id": "tod_fr_0021",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Quel musée aimerais-tu visiter ?"
+    },
+    {
+      "id": "tod_fr_0022",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Quelle phrase t'encourage quand tu apprends ?"
+    },
+    {
+      "id": "tod_fr_0023",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Quelle recette aimerais-tu maîtriser ?"
+    },
+    {
+      "id": "tod_fr_0024",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Quelle habitude familiale te fait rire ?"
+    },
+    {
+      "id": "tod_fr_0025",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "dare",
+      "text": "Présente une météo imaginaire pendant dix secondes."
+    },
+    {
+      "id": "tod_fr_0026",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "dare",
+      "text": "Trouve une rime avec « bateau »."
+    },
+    {
+      "id": "tod_fr_0027",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "dare",
+      "text": "Mime la préparation d'une crêpe."
+    },
+    {
+      "id": "tod_fr_0028",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "dare",
+      "text": "Nomme cinq fruits à voix haute."
+    },
+    {
+      "id": "tod_fr_0029",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "dare",
+      "text": "Chante une phrase inventée sur la pluie."
+    },
+    {
+      "id": "tod_fr_0030",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "dare",
+      "text": "Mime un train qui quitte la gare."
+    },
+    {
+      "id": "tod_fr_0031",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "dare",
+      "text": "Décris un château de sable imaginaire."
+    }
+  ]
+}

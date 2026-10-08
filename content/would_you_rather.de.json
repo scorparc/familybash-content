@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "mode": "would_you_rather",
+  "language": "de",
+  "revision": 3,
+  "title": "Würdest du lieber – Basis DE",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "wyr_de_0001",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "fliegen können",
+      "optionB": "unsichtbar sein"
+    },
+    {
+      "id": "wyr_de_0002",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "mit allen Tieren sprechen können",
+      "optionB": "jede Sprache der Welt verstehen"
+    },
+    {
+      "id": "wyr_de_0003",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "family",
+      "tier": "free",
+      "optionA": "ein Haustier-Drache sein Eigen nennen",
+      "optionB": "ein Einhorn als besten Freund haben"
+    },
+    {
+      "id": "wyr_de_0004",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "eine Woche lang nur Süßigkeiten essen dürfen",
+      "optionB": "eine Woche lang nur Pizza essen dürfen"
+    },
+    {
+      "id": "wyr_de_0005",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "super schnell rennen können",
+      "optionB": "super stark sein"
+    },
+    {
+      "id": "wyr_de_0006",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "family",
+      "tier": "free",
+      "optionA": "auf einer Wolke wohnen",
+      "optionB": "in einem Baumhaus im Zauberwald wohnen"
+    },
+    {
+      "id": "wyr_de_0007",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen"],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "die Zeit anhalten können",
+      "optionB": "dich an jeden Ort teleportieren können"
+    },
+    {
+      "id": "wyr_de_0008",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "immer genug Zeit, aber nie genug Geld haben",
+      "optionB": "immer genug Geld, aber nie genug Zeit haben"
+    },
+    {
+      "id": "wyr_de_0009",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "die Berge zum Urlaub wählen",
+      "optionB": "das Meer zum Urlaub wählen"
+    },
+    {
+      "id": "wyr_de_0010",
+      "ageBands": ["teen", "adult"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "nie wieder im Stau stehen müssen",
+      "optionB": "nie wieder eine Warteschlange ertragen müssen"
+    },
+    {
+      "id": "wyr_de_0011",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "einen Sommer lang durch ganz Europa reisen",
+      "optionB": "einen Sommer lang in einem gemütlichen Häuschen entspannen"
+    },
+    {
+      "id": "wyr_de_0012",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "noch einmal 20 sein, aber mit dem Wissen von heute",
+      "optionB": "genau so weiterleben, aber die Zukunft für einen Tag sehen können"
+    },
+    {
+      "id": "wyr_de_0013",
+      "ageBands": ["kid_10_13", "teen", "adult"],
+      "filter": "wild_lite",
+      "tier": "free",
+      "optionA": "einen ganzen Tag mit Spinat zwischen den Zähnen herumlaufen",
+      "optionB": "einen ganzen Tag mit dem T-Shirt verkehrt herum tragen"
+    },
+    {
+      "id": "wyr_de_0014",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "free",
+      "optionA": "beim Karaoke schrecklich falsch, aber voller Inbrunst singen",
+      "optionB": "auf der Tanzfläche völlig aus dem Takt, aber glücklich tanzen"
+    },
+    {
+      "id": "wyr_de_0015",
+      "ageBands": ["kid_10_13", "teen", "adult"],
+      "filter": "wild_lite",
+      "tier": "pro",
+      "optionA": "immer laut niesen, wenn es gerade ganz still ist",
+      "optionB": "immer im falschesten Moment laut lachen müssen"
+    },
+    {
+      "id": "wyr_de_0016",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "einen Sonnenaufgang ansehen",
+      "optionB": "einen Sonnenuntergang ansehen"
+    },
+    {
+      "id": "wyr_de_0017",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "eine Höhle aus Decken bauen",
+      "optionB": "einen Turm aus Kissen bauen"
+    },
+    {
+      "id": "wyr_de_0018",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "im Garten picknicken",
+      "optionB": "im Wohnzimmer picknicken"
+    },
+    {
+      "id": "wyr_de_0019",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "eine Geschichte erzählen",
+      "optionB": "ein Bild malen"
+    },
+    {"id":"wyr_de_0020","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"einen Tag mit Delfinen schwimmen","optionB":"einen Tag mit Pinguinen verbringen"},
+    {"id":"wyr_de_0021","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"eine eigene Baumhaus-Bibliothek haben","optionB":"ein geheimes Gartenkino haben"},
+    {"id":"wyr_de_0022","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"mit einem Heißluftballon reisen","optionB":"mit einem Segelboot reisen"},
+    {"id":"wyr_de_0023","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"alle Sprachen verstehen","optionB":"alle Instrumente spielen können"},
+    {"id":"wyr_de_0024","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"einen Regenbogen aus der Nähe sehen","optionB":"eine Sternschnuppe beobachten"},
+    {"id":"wyr_de_0025","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"ein neues Brettspiel erfinden","optionB":"ein eigenes Bilderbuch gestalten"},
+    {"id":"wyr_de_0026","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"eine Woche am Meer verbringen","optionB":"eine Woche in den Bergen verbringen"},
+    {"id":"wyr_de_0027","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"mit einem Roboter kochen","optionB":"mit einem Roboter gärtnern"},
+    {"id":"wyr_de_0028","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"eine Zeitreise in die Vergangenheit machen","optionB":"eine Reise in die Zukunft machen"},
+    {"id":"wyr_de_0029","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"eine Schatzsuche veranstalten","optionB":"ein Rätselturnier veranstalten"},
+    {"id":"wyr_de_0030","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"ein Baumhaus bauen","optionB":"eine Höhle aus Decken bauen"},
+    {"id":"wyr_de_0031","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","optionA":"unter Wasser atmen können","optionB":"über Wolken schweben können"}
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 1,
+  "mode": "truth_or_dare",
+  "language": "de",
+  "revision": 4,
+  "title": "Wahrheit oder Pflicht – Basis DE",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "tod_de_0001",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Verrate, was dein absolutes Lieblingsessen ist."
+    },
+    {
+      "id": "tod_de_0002",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Mache 5 Hampelmänner."
+    },
+    {
+      "id": "tod_de_0003",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Verrate, welches Tier du am liebsten einmal streicheln würdest."
+    },
+    {
+      "id": "tod_de_0004",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult"],
+      "filter": "family",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Sprich bis zu deiner nächsten Runde nur im Flüsterton."
+    },
+    {
+      "id": "tod_de_0005",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Erzähle, was du am liebsten an einem freien Tag machst."
+    },
+    {
+      "id": "tod_de_0006",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen"],
+      "filter": "family",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Hüpfe zehnmal auf einem Bein."
+    },
+    {
+      "id": "tod_de_0007",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Verrate deine Lieblingsfarbe und warum du sie magst."
+    },
+    {
+      "id": "tod_de_0008",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Singe die erste Strophe eines beliebigen Kinderlieds."
+    },
+    {
+      "id": "tod_de_0009",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Erzähle von deinem schönsten Ferien- oder Urlaubserlebnis."
+    },
+    {
+      "id": "tod_de_0010",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Mache jemandem am Tisch ein ehrliches Kompliment."
+    },
+    {
+      "id": "tod_de_0011",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Verrate, welchen Beruf du als Kind unbedingt lernen wolltest."
+    },
+    {
+      "id": "tod_de_0012",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen"],
+      "filter": "family",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Ahme dein Lieblingstier nach, bis jemand errät, welches es ist."
+    },
+    {
+      "id": "tod_de_0013",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "pro",
+      "kind": "dare",
+      "text": "Erfinde einen albernen Tanzschritt und zeige ihn zweimal vor."
+    },
+    {
+      "id": "tod_de_0014",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Verrate, worüber du in letzter Zeit am meisten gelacht hast."
+    },
+    {
+      "id": "tod_de_0015",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Erzähle, welche Superkraft du gerne hättest und warum."
+    },
+    {
+      "id": "tod_de_0016",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Sage einen Zungenbrecher dreimal hintereinander auf."
+    },
+    {
+      "id": "tod_de_0017",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Verrate, welches Buch oder welchen Film du immer wieder mögen würdest."
+    },
+    {
+      "id": "tod_de_0018",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Erzähle einen kurzen Witz, den alle am Tisch kennen dürfen."
+    },
+    {
+      "id": "tod_de_0019",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "pro",
+      "kind": "dare",
+      "text": "Sprich bis zu deiner nächsten Runde mit einer lustigen Fantasie-Stimme."
+    },
+    {
+      "id": "tod_de_0020",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "Verrate, wofür du heute besonders dankbar bist."
+    },
+    {
+      "id": "tod_de_0021",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Imitiere ein Familienmitglied am Tisch – die anderen raten, wer gemeint ist."
+    },
+    {
+      "id": "tod_de_0022",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Summe ein Lied aus deiner Jugend – die anderen raten den Titel."
+    },
+    {
+      "id": "tod_de_0023",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Erzähle einen Witz. Lacht niemand, musst du gleich noch einen erzählen."
+    },
+    {
+      "id": "tod_de_0024",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Sage das Alphabet rückwärts von G bis A."
+    },
+    {
+      "id": "tod_de_0025",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Hüpfe wie ein Frosch einmal um deinen Stuhl."
+    },
+    {
+      "id": "tod_de_0026",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Verrate, welchen Berufswunsch du als Kind hattest."
+    },
+    {
+      "id": "tod_de_0027",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Mache nacheinander die Geräusche von drei Tieren."
+    },
+    {
+      "id": "tod_de_0028",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Sprich deinen nächsten Satz wie ein freundlicher Roboter."
+    },
+    {
+      "id": "tod_de_0029",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Summe eine bekannte Melodie, bis jemand sie errät."
+    },
+    {
+      "id": "tod_de_0030",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Zeige nur mit deinem Gesicht, dass du sehr überrascht bist."
+    },
+    {
+      "id": "tod_de_0031",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Klatsche einen kurzen Rhythmus vor, den alle nachmachen können."
+    },
+    {
+      "id": "tod_de_0032",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Stelle mit den Händen lautlos Regen, Wind und Sonne dar."
+    },
+    {
+      "id": "tod_de_0033",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Welches Tier findest du besonders toll?"
+    },
+    {
+      "id": "tod_de_0034",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Was macht einen richtig schönen Tag für dich aus?"
+    },
+    {"id":"tod_de_0035","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"truth","text":"Welche Kleinigkeit bringt dich sofort zum Lächeln?"},
+    {"id":"tod_de_0036","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"dare","text":"Erfinde einen freundlichen Gruß und zeige ihn der Runde."},
+    {"id":"tod_de_0037","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"truth","text":"Welches Fantasietier hättest du gern als Begleiter?"},
+    {"id":"tod_de_0038","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"dare","text":"Stelle zehn Sekunden lang einen Roboter dar."},
+    {"id":"tod_de_0039","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"truth","text":"Welchen Ort würdest du gern einmal erkunden?"},
+    {"id":"tod_de_0040","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"dare","text":"Erzähle eine Mini-Geschichte mit den Wörtern Wolke und Fahrrad."},
+    {"id":"tod_de_0041","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"truth","text":"Welches Spiel würdest du für einen Familienabend erfinden?"},
+    {"id":"tod_de_0042","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"dare","text":"Mache drei verschiedene Tiergeräusche."},
+    {"id":"tod_de_0043","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"truth","text":"Was hast du zuletzt Neues gelernt?"},
+    {"id":"tod_de_0044","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"dare","text":"Zeichne mit dem Finger einen Stern in die Luft."},
+    {"id":"tod_de_0045","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"truth","text":"Welche Superkraft wäre im Alltag besonders praktisch?"}
+  ]
+}

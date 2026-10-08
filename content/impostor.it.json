@@ -1,0 +1,355 @@
+{
+  "schemaVersion": 1,
+  "mode": "impostor",
+  "language": "it",
+  "revision": 1,
+  "title": "Impostore – Italia",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "imp_it_0001",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animali",
+      "word": "Gatto",
+      "emoji": "🐈"
+    },
+    {
+      "id": "imp_it_0002",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animali",
+      "word": "Cane",
+      "emoji": "🐕"
+    },
+    {
+      "id": "imp_it_0003",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animali",
+      "word": "Coniglio",
+      "emoji": "🐇"
+    },
+    {
+      "id": "imp_it_0004",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animali",
+      "word": "Farfalla",
+      "emoji": "🦋"
+    },
+    {
+      "id": "imp_it_0005",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Cibo",
+      "word": "Pizza",
+      "emoji": "🍕"
+    },
+    {
+      "id": "imp_it_0006",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Cibo",
+      "word": "Gelato",
+      "emoji": "🍦"
+    },
+    {
+      "id": "imp_it_0007",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Viaggi",
+      "word": "Treno",
+      "emoji": "🚆"
+    },
+    {
+      "id": "imp_it_0008",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Natura",
+      "word": "Sole",
+      "emoji": "☀️"
+    },
+    {
+      "id": "imp_it_0009",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Cibo",
+      "word": "Pasta",
+      "emoji": "🍝"
+    },
+    {
+      "id": "imp_it_0010",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Cibo",
+      "word": "Arancino",
+      "emoji": "🍙"
+    },
+    {
+      "id": "imp_it_0011",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Cibo",
+      "word": "Limone",
+      "emoji": "🍋"
+    },
+    {
+      "id": "imp_it_0012",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Luoghi",
+      "word": "Piazza",
+      "emoji": "🏛️"
+    },
+    {
+      "id": "imp_it_0013",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Luoghi",
+      "word": "Spiaggia",
+      "emoji": "🏖️"
+    },
+    {
+      "id": "imp_it_0014",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Luoghi",
+      "word": "Biblioteca",
+      "emoji": "📚"
+    },
+    {
+      "id": "imp_it_0015",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Viaggi",
+      "word": "Bicicletta",
+      "emoji": "🚲"
+    },
+    {
+      "id": "imp_it_0016",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Viaggi",
+      "word": "Traghetto",
+      "emoji": "⛴️"
+    },
+    {
+      "id": "imp_it_0017",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Oggetti",
+      "word": "Ombrello",
+      "emoji": "☂️"
+    },
+    {
+      "id": "imp_it_0018",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Oggetti",
+      "word": "Zaino",
+      "emoji": "🎒"
+    },
+    {
+      "id": "imp_it_0019",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Natura",
+      "word": "Montagna",
+      "emoji": "⛰️"
+    },
+    {
+      "id": "imp_it_0020",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Natura",
+      "word": "Arcobaleno",
+      "emoji": "🌈"
+    },
+    {
+      "id": "imp_it_0021",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Musica",
+      "word": "Mandolino",
+      "emoji": "🎸"
+    },
+    {
+      "id": "imp_it_0022",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Sport",
+      "word": "Pallone",
+      "emoji": "⚽"
+    },
+    {
+      "id": "imp_it_0023",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Animali",
+      "word": "Riccio",
+      "emoji": "🦔"
+    }
+  ]
+}

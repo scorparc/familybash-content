@@ -1,0 +1,764 @@
+{
+  "schemaVersion": 1,
+  "mode": "quiz",
+  "language": "es",
+  "revision": 1,
+  "title": "Duelo de preguntas – España",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "qz_es_0001",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Cuántas patas tiene una araña?",
+      "options": [
+        "Ocho",
+        "Seis",
+        "Cuatro",
+        "Diez"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_es_0002",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Qué color sale al mezclar azul y amarillo?",
+      "options": [
+        "Morado",
+        "Verde",
+        "Naranja",
+        "Rojo"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_es_0003",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Cuántos días tiene una semana?",
+      "options": [
+        "Cinco",
+        "Seis",
+        "Siete",
+        "Ocho"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_es_0004",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Qué animal vive en el mar y salta fuera del agua?",
+      "options": [
+        "Caballo",
+        "Oveja",
+        "Gato",
+        "Delfín"
+      ],
+      "correctIndex": 3,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_es_0005",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Qué forma tiene tres lados?",
+      "options": [
+        "Triángulo",
+        "Cuadrado",
+        "Círculo",
+        "Rectángulo"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_es_0006",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿En qué estación suelen caer las hojas?",
+      "options": [
+        "Primavera",
+        "Otoño",
+        "Verano",
+        "Invierno"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_es_0007",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Con qué instrumento vemos estrellas lejanas?",
+      "options": [
+        "Termómetro",
+        "Microscopio",
+        "Telescopio",
+        "Brújula"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_es_0008",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Qué fruta es una naranja?",
+      "options": [
+        "Baya",
+        "Fruto seco",
+        "Legumbre",
+        "Cítrico"
+      ],
+      "correctIndex": 3,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_es_0009",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Cuál es la capital de Aragón?",
+      "options": [
+        "Zaragoza",
+        "Toledo",
+        "Burgos",
+        "Cádiz"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_es_0010",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿En qué isla está el Teide?",
+      "options": [
+        "Mallorca",
+        "Tenerife",
+        "Menorca",
+        "Ibiza"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_es_0011",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Qué río pasa por Zaragoza?",
+      "options": [
+        "Tajo",
+        "Guadalquivir",
+        "Ebro",
+        "Duero"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_es_0012",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Qué ciudad acogió los Juegos Olímpicos de 1992?",
+      "options": [
+        "Madrid",
+        "Sevilla",
+        "Bilbao",
+        "Barcelona"
+      ],
+      "correctIndex": 3,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_es_0013",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Qué mar baña la costa de Málaga?",
+      "options": [
+        "Mediterráneo",
+        "Báltico",
+        "Mar del Norte",
+        "Mar Negro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_es_0014",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Qué cordillera separa España y Francia?",
+      "options": [
+        "Alpes",
+        "Pirineos",
+        "Andes",
+        "Apeninos"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_es_0015",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Qué material atrae un imán común?",
+      "options": [
+        "Madera",
+        "Vidrio",
+        "Hierro",
+        "Papel"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_es_0016",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Cómo se llama el proceso por el que las plantas fabrican alimento con luz?",
+      "options": [
+        "Evaporación",
+        "Erosión",
+        "Condensación",
+        "Fotosíntesis"
+      ],
+      "correctIndex": 3,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_es_0017",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Quién escribió Don Quijote?",
+      "options": [
+        "Miguel de Cervantes",
+        "Federico García Lorca",
+        "Benito Pérez Galdós",
+        "Antonio Machado"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_es_0018",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Qué cantante hizo famosa la canción Mediterráneo?",
+      "options": [
+        "Nino Bravo",
+        "Joan Manuel Serrat",
+        "Julio Iglesias",
+        "Rocío Jurado"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_es_0019",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Qué concurso televisivo popularizó el lema «Un, dos, tres»?",
+      "options": [
+        "Saber y ganar",
+        "Pasapalabra",
+        "Un, dos, tres... responda otra vez",
+        "Operación Triunfo"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_es_0020",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Qué moneda se usaba en España antes del euro?",
+      "options": [
+        "Franco",
+        "Escudo",
+        "Lira",
+        "Peseta"
+      ],
+      "correctIndex": 3,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_es_0021",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿En qué año se celebró el Mundial de fútbol en España?",
+      "options": [
+        "1982",
+        "1974",
+        "1990",
+        "1998"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_es_0022",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿En qué ciudad se encuentra la Alhambra?",
+      "options": [
+        "Córdoba",
+        "Granada",
+        "Salamanca",
+        "Murcia"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_es_0023",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Qué pintor español creó Las meninas?",
+      "options": [
+        "Pablo Picasso",
+        "Joan Miró",
+        "Diego Velázquez",
+        "Francisco Goya"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_es_0024",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "¿Qué deporte se juega con una cesta llamada «cesta punta»?",
+      "options": [
+        "Balonmano",
+        "Pádel",
+        "Bádminton",
+        "Pelota vasca"
+      ],
+      "correctIndex": 3,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_es_0025",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "¿Qué animal lleva su casa a cuestas?",
+      "options": [
+        "Caracol",
+        "Conejo",
+        "Pato",
+        "Zorro"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_es_0026",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "¿Cuántos minutos tiene una hora?",
+      "options": [
+        "Cincuenta",
+        "Sesenta",
+        "Setenta",
+        "Ochenta"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_es_0027",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "¿Qué usamos para medir la lluvia?",
+      "options": [
+        "Reloj",
+        "Brújula",
+        "Pluviómetro",
+        "Balanza"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_es_0028",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "¿Qué ciudad española es famosa por las Fallas?",
+      "options": [
+        "León",
+        "Huelva",
+        "Soria",
+        "Valencia"
+      ],
+      "correctIndex": 3,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_es_0029",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "¿Qué fruto se obtiene del olivo?",
+      "options": [
+        "Aceituna",
+        "Cereza",
+        "Higo",
+        "Ciruela"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_es_0030",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "¿Qué isla canaria tiene la capital Las Palmas de Gran Canaria?",
+      "options": [
+        "La Gomera",
+        "Gran Canaria",
+        "El Hierro",
+        "La Palma"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_es_0031",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "¿Qué arquitecto diseñó la Casa Batlló?",
+      "options": [
+        "Santiago Calatrava",
+        "Rafael Moneo",
+        "Antoni Gaudí",
+        "Ildefons Cerdà"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_es_0032",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "¿Qué escritor creó a Platero, el pequeño burro?",
+      "options": [
+        "Miguel Delibes",
+        "Camilo José Cela",
+        "Pío Baroja",
+        "Juan Ramón Jiménez"
+      ],
+      "correctIndex": 3,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_es_0033",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "¿Cómo se llama el instrumento de percusión típico del flamenco?",
+      "options": [
+        "Cajón",
+        "Arpa",
+        "Oboe",
+        "Trompa"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_es_0034",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "¿En qué comunidad está el Parque Nacional de Doñana?",
+      "options": [
+        "Cantabria",
+        "Andalucía",
+        "Navarra",
+        "La Rioja"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_es_0035",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "¿Qué película de animación española presentó a Tadeo Jones?",
+      "options": [
+        "Atrapa la bandera",
+        "Klaus",
+        "Las aventuras de Tadeo Jones",
+        "Chico y Rita"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_es_0036",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "¿Qué actriz española ganó un Óscar por Vicky Cristina Barcelona?",
+      "options": [
+        "Carmen Maura",
+        "Maribel Verdú",
+        "Ángela Molina",
+        "Penélope Cruz"
+      ],
+      "correctIndex": 3,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_es_0037",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "¿Qué grupo interpretó «Hijo de la Luna»?",
+      "options": [
+        "Mecano",
+        "Hombres G",
+        "El Canto del Loco",
+        "Amaral"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_es_0038",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "¿Qué científica española investigó el ADN y fue discípula de Severo Ochoa?",
+      "options": [
+        "María Blasco",
+        "Margarita Salas",
+        "Ángela Ruiz Robles",
+        "Elena García Armada"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_es_0039",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "¿Qué título lleva la novela picaresca cuyo protagonista sirve a varios amos?",
+      "options": [
+        "La Celestina",
+        "Fortunata y Jacinta",
+        "Lazarillo de Tormes",
+        "El árbol de la ciencia"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    }
+  ]
+}

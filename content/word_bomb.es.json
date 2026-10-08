@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "mode": "word_bomb",
+  "language": "es",
+  "revision": 1,
+  "title": "Bomba de palabras – España",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "wb_es_0001",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Animales de granja",
+      "examples": "vaca, gallina, oveja"
+    },
+    {
+      "id": "wb_es_0002",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Frutas",
+      "examples": "manzana, pera, naranja"
+    },
+    {
+      "id": "wb_es_0003",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Colores",
+      "examples": "rojo, azul, verde"
+    },
+    {
+      "id": "wb_es_0004",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Cosas de la playa",
+      "examples": "arena, toalla, sombrilla"
+    },
+    {
+      "id": "wb_es_0005",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Transportes",
+      "examples": "tren, bicicleta, barco"
+    },
+    {
+      "id": "wb_es_0006",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Comidas del desayuno",
+      "examples": "pan, fruta, yogur"
+    },
+    {
+      "id": "wb_es_0007",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Objetos del colegio",
+      "examples": "lápiz, libro, mochila"
+    },
+    {
+      "id": "wb_es_0008",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Plantas",
+      "examples": "pino, rosal, olivo"
+    },
+    {
+      "id": "wb_es_0009",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Ciudades españolas",
+      "examples": "Sevilla, Valencia, Zaragoza"
+    },
+    {
+      "id": "wb_es_0010",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Deportes",
+      "examples": "fútbol, tenis, baloncesto"
+    },
+    {
+      "id": "wb_es_0011",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Instrumentos musicales",
+      "examples": "guitarra, piano, flauta"
+    },
+    {
+      "id": "wb_es_0012",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Prendas de vestir",
+      "examples": "camisa, abrigo, gorra"
+    },
+    {
+      "id": "wb_es_0013",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Verduras",
+      "examples": "tomate, zanahoria, pimiento"
+    },
+    {
+      "id": "wb_es_0014",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Animales del mar",
+      "examples": "delfín, pulpo, sardina"
+    },
+    {
+      "id": "wb_es_0015",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Palabras que empiezan por M",
+      "examples": "mano, mesa, montaña"
+    },
+    {
+      "id": "wb_es_0016",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Cosas de un parque",
+      "examples": "banco, árbol, columpio"
+    },
+    {
+      "id": "wb_es_0017",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Objetos que ruedan",
+      "examples": "rueda, pelota, canica"
+    },
+    {
+      "id": "wb_es_0018",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Ríos de España",
+      "examples": "Ebro, Tajo, Duero"
+    },
+    {
+      "id": "wb_es_0019",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Oficios",
+      "examples": "panadero, médica, carpintero"
+    },
+    {
+      "id": "wb_es_0020",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Cosas que vuelan",
+      "examples": "pájaro, cometa, avión"
+    },
+    {
+      "id": "wb_es_0021",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Juegos de mesa",
+      "examples": "ajedrez, parchís, dominó"
+    },
+    {
+      "id": "wb_es_0022",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Postres españoles",
+      "examples": "flan, torrija, natillas"
+    },
+    {
+      "id": "wb_es_0023",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Pueblos o ciudades con playa",
+      "examples": "Cádiz, Málaga, Alicante"
+    }
+  ]
+}

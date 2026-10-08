@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "mode": "would_you_rather",
+  "language": "es",
+  "revision": 1,
+  "title": "¿Qué prefieres? – España",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "wyr_es_0001",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "volar como un pájaro",
+      "optionB": "nadar como un delfín"
+    },
+    {
+      "id": "wyr_es_0002",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "vivir junto al mar",
+      "optionB": "vivir cerca de las montañas"
+    },
+    {
+      "id": "wyr_es_0003",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "tener una mascota que hable",
+      "optionB": "tener una bicicleta que vuele"
+    },
+    {
+      "id": "wyr_es_0004",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "comer fruta de verano",
+      "optionB": "comer fruta de invierno"
+    },
+    {
+      "id": "wyr_es_0005",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "visitar un castillo",
+      "optionB": "visitar un faro"
+    },
+    {
+      "id": "wyr_es_0006",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "dibujar con colores",
+      "optionB": "construir con piezas"
+    },
+    {
+      "id": "wyr_es_0007",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "viajar en tren",
+      "optionB": "viajar en barco"
+    },
+    {
+      "id": "wyr_es_0008",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "optionA": "oír una historia",
+      "optionB": "inventar una historia"
+    },
+    {
+      "id": "wyr_es_0009",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "hacer un picnic en el parque",
+      "optionB": "hacerlo en la playa"
+    },
+    {
+      "id": "wyr_es_0010",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "aprender a tocar la guitarra",
+      "optionB": "aprender a tocar el piano"
+    },
+    {
+      "id": "wyr_es_0011",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "explorar una cueva",
+      "optionB": "explorar un bosque"
+    },
+    {
+      "id": "wyr_es_0012",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "preparar churros",
+      "optionB": "preparar una tortilla"
+    },
+    {
+      "id": "wyr_es_0013",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "ver salir el sol",
+      "optionB": "ver caer el sol"
+    },
+    {
+      "id": "wyr_es_0014",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "tener una biblioteca enorme",
+      "optionB": "tener un jardín enorme"
+    },
+    {
+      "id": "wyr_es_0015",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "ganar un juego de cartas",
+      "optionB": "ganar un juego de palabras"
+    },
+    {
+      "id": "wyr_es_0016",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "pasar un día en Sevilla",
+      "optionB": "pasar un día en Valencia"
+    },
+    {
+      "id": "wyr_es_0017",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "seguir huellas de animales",
+      "optionB": "buscar constelaciones"
+    },
+    {
+      "id": "wyr_es_0018",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "tener una casa en un árbol",
+      "optionB": "tener una casa junto a un lago"
+    },
+    {
+      "id": "wyr_es_0019",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "escribir un cómic",
+      "optionB": "grabar un cortometraje"
+    },
+    {
+      "id": "wyr_es_0020",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "aprender un baile",
+      "optionB": "aprender un deporte"
+    },
+    {
+      "id": "wyr_es_0021",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "poder hablar con los gatos",
+      "optionB": "poder hablar con los perros"
+    },
+    {
+      "id": "wyr_es_0022",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "encontrar un mapa antiguo",
+      "optionB": "encontrar una cámara antigua"
+    },
+    {
+      "id": "wyr_es_0023",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "optionA": "organizar una fiesta sorpresa",
+      "optionB": "organizar una excursión sorpresa"
+    }
+  ]
+}

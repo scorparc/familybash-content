@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "mode": "word_bomb",
+  "language": "de",
+  "revision": 2,
+  "title": "Wortbombe – Basis DE",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "wb_de_0001",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Tiere",
+      "examples": "z.B. Hund, Katze, Pferd"
+    },
+    {
+      "id": "wb_de_0002",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Obst & Gemüse",
+      "examples": "z.B. Apfel, Banane, Karotte"
+    },
+    {
+      "id": "wb_de_0003",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Farben",
+      "examples": "z.B. Rot, Blau, Grün"
+    },
+    {
+      "id": "wb_de_0004",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Spielzeug",
+      "examples": "z.B. Ball, Puppe, Bauklotz"
+    },
+    {
+      "id": "wb_de_0005",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Körperteile",
+      "examples": "z.B. Hand, Nase, Fuß"
+    },
+    {
+      "id": "wb_de_0006",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Dinge im Bad",
+      "examples": "z.B. Zahnbürste, Seife, Handtuch"
+    },
+    {
+      "id": "wb_de_0007",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Dinge in der Küche",
+      "examples": "z.B. Löffel, Teller, Topf"
+    },
+    {
+      "id": "wb_de_0008",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Kleidung",
+      "examples": "z.B. Hose, Jacke, Mütze"
+    },
+    {
+      "id": "wb_de_0009",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Dinge auf dem Bauernhof",
+      "examples": "z.B. Kuh, Traktor, Heu"
+    },
+    {
+      "id": "wb_de_0010",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Wetter & Natur",
+      "examples": "z.B. Regen, Sonne, Wind"
+    },
+    {
+      "id": "wb_de_0011",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Länder",
+      "examples": "z.B. Deutschland, Italien, Spanien"
+    },
+    {
+      "id": "wb_de_0012",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Sportarten",
+      "examples": "z.B. Fußball, Tennis, Schwimmen"
+    },
+    {
+      "id": "wb_de_0013",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Berufe",
+      "examples": "z.B. Arzt, Lehrer, Bäcker"
+    },
+    {
+      "id": "wb_de_0014",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "category": "Automarken",
+      "examples": "z.B. VW, BMW, Audi"
+    },
+    {
+      "id": "wb_de_0015",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "category": "Filme",
+      "examples": "z.B. Titanic, Avatar, Findet Nemo"
+    },
+    {
+      "id": "wb_de_0016",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Hauptstädte",
+      "examples": "z.B. Berlin, Paris, Rom"
+    },
+    {
+      "id": "wb_de_0017",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "pro",
+      "category": "Berühmte Personen",
+      "examples": "z.B. Einstein, Mozart, Goethe"
+    },
+    {
+      "id": "wb_de_0018",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "category": "Fußball-Mannschaften",
+      "examples": "z.B. Bayern, Dortmund, Schalke"
+    },
+    {"id":"wb_de_0019","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Dinge am Himmel","examples":"z. B. Wolke, Stern, Flugzeug"},
+    {"id":"wb_de_0020","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Erfindungen","examples":"z. B. Fahrrad, Kompass, Lupe"},
+    {"id":"wb_de_0021","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Wörter mit Doppelbuchstaben","examples":"z. B. Sonne, Koffer, Tasse"},
+    {"id":"wb_de_0022","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Dinge im Museum","examples":"z. B. Gemälde, Fossil, Statue"},
+    {"id":"wb_de_0023","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Geräusche in der Natur","examples":"z. B. Donner, Vogelruf, Wasserfall"},
+    {"id":"wb_de_0024","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Berufe mit Werkzeug","examples":"z. B. Gärtner, Tischler, Bäcker"},
+    {"id":"wb_de_0025","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Dinge auf einer Reise","examples":"z. B. Fahrkarte, Koffer, Karte"},
+    {"id":"wb_de_0026","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Tiere mit Streifen oder Punkten","examples":"z. B. Zebra, Marienkäfer, Tiger"},
+    {"id":"wb_de_0027","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Dinge, die rollen","examples":"z. B. Murmel, Rad, Ball"},
+    {"id":"wb_de_0028","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Wörter aus dem Weltall","examples":"z. B. Planet, Rakete, Komet"},
+    {"id":"wb_de_0029","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Dinge in einer Bibliothek","examples":"z. B. Buch, Regal, Lesezeichen"},
+    {"id":"wb_de_0030","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","category":"Dinge am Strand","examples":"z. B. Muschel, Sandburg, Welle"}
+  ]
+}

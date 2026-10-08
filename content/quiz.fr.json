@@ -1,0 +1,764 @@
+{
+  "schemaVersion": 1,
+  "mode": "quiz",
+  "language": "fr",
+  "revision": 1,
+  "title": "Duel de questions – France",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "qz_fr_0001",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Combien de pattes a une araignée ?",
+      "options": [
+        "Huit",
+        "Six",
+        "Quatre",
+        "Dix"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_fr_0002",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quelle couleur obtient-on en mélangeant bleu et jaune ?",
+      "options": [
+        "Violet",
+        "Vert",
+        "Orange",
+        "Rouge"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_fr_0003",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Combien y a-t-il de jours dans une semaine ?",
+      "options": [
+        "Cinq",
+        "Six",
+        "Sept",
+        "Huit"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_fr_0004",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quel animal porte une coquille sur son dos ?",
+      "options": [
+        "Renard",
+        "Canard",
+        "Cheval",
+        "Escargot"
+      ],
+      "correctIndex": 3,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_fr_0005",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quelle forme possède trois côtés ?",
+      "options": [
+        "Triangle",
+        "Carré",
+        "Cercle",
+        "Rectangle"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_fr_0006",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "À quelle saison les feuilles tombent-elles souvent ?",
+      "options": [
+        "Printemps",
+        "Automne",
+        "Été",
+        "Hiver"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_fr_0007",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quel objet sert à regarder les étoiles de loin ?",
+      "options": [
+        "Thermomètre",
+        "Loupe",
+        "Télescope",
+        "Boussole"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_fr_0008",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quel fruit pousse sur un pommier ?",
+      "options": [
+        "Poire",
+        "Pêche",
+        "Prune",
+        "Pomme"
+      ],
+      "correctIndex": 3,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_fr_0009",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quelle ville est la capitale de la Bretagne ?",
+      "options": [
+        "Rennes",
+        "Tours",
+        "Amiens",
+        "Dijon"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_fr_0010",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quel fleuve traverse Paris ?",
+      "options": [
+        "Loire",
+        "Seine",
+        "Rhône",
+        "Garonne"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_fr_0011",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Dans quelle région se trouve le mont Blanc côté français ?",
+      "options": [
+        "Bretagne",
+        "Normandie",
+        "Auvergne-Rhône-Alpes",
+        "Occitanie"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_fr_0012",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quel sport se joue avec une raquette et un volant ?",
+      "options": [
+        "Handball",
+        "Natation",
+        "Pétanque",
+        "Badminton"
+      ],
+      "correctIndex": 3,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_fr_0013",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quelle ville est connue pour sa fête des Lumières ?",
+      "options": [
+        "Lyon",
+        "Brest",
+        "Nancy",
+        "Limoges"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_fr_0014",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quel océan borde la côte ouest de la France ?",
+      "options": [
+        "Indien",
+        "Atlantique",
+        "Pacifique",
+        "Arctique"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_fr_0015",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quel gaz les plantes absorbent-elles pendant la photosynthèse ?",
+      "options": [
+        "Oxygène",
+        "Hélium",
+        "Dioxyde de carbone",
+        "Azote"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_fr_0016",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quel auteur a écrit Le Petit Prince ?",
+      "options": [
+        "Jules Verne",
+        "Victor Hugo",
+        "Marcel Pagnol",
+        "Antoine de Saint-Exupéry"
+      ],
+      "correctIndex": 3,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_fr_0017",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quelle chanteuse a rendu célèbre « La Vie en rose » ?",
+      "options": [
+        "Édith Piaf",
+        "Dalida",
+        "Françoise Hardy",
+        "Juliette Gréco"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_fr_0018",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quelle monnaie précédait l'euro en France ?",
+      "options": [
+        "Lire",
+        "Franc",
+        "Peseta",
+        "Mark"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_fr_0019",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quel jeu télévisé opposait des villes françaises dans des épreuves amusantes ?",
+      "options": [
+        "Fort Boyard",
+        "Questions pour un champion",
+        "Intervilles",
+        "Des chiffres et des lettres"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_fr_0020",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quelle course cycliste traverse la France chaque été ?",
+      "options": [
+        "Paris-Roubaix",
+        "Vuelta",
+        "Giro",
+        "Tour de France"
+      ],
+      "correctIndex": 3,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_fr_0021",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quel peintre a créé les Nymphéas ?",
+      "options": [
+        "Claude Monet",
+        "Auguste Renoir",
+        "Paul Cézanne",
+        "Henri Matisse"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_fr_0022",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Qui chantait « La Bohème » ?",
+      "options": [
+        "Joe Dassin",
+        "Charles Aznavour",
+        "Michel Delpech",
+        "Serge Gainsbourg"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_fr_0023",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Dans quelle ville se trouve le Palais des papes ?",
+      "options": [
+        "Reims",
+        "Tours",
+        "Avignon",
+        "Rouen"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_fr_0024",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "free",
+      "question": "Quel écrivain a imaginé les aventures d'Astérix avec Albert Uderzo ?",
+      "options": [
+        "Hergé",
+        "Tardi",
+        "Peyo",
+        "René Goscinny"
+      ],
+      "correctIndex": 3,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_fr_0025",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quel animal construit des barrages ?",
+      "options": [
+        "Castor",
+        "Hérisson",
+        "Lièvre",
+        "Écureuil"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_fr_0026",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Combien de minutes dure une heure ?",
+      "options": [
+        "Cinquante",
+        "Soixante",
+        "Soixante-dix",
+        "Quatre-vingts"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_fr_0027",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quel instrument mesure la température ?",
+      "options": [
+        "Baromètre",
+        "Chronomètre",
+        "Thermomètre",
+        "Altimètre"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_fr_0028",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quelle ville française est connue pour ses calissons ?",
+      "options": [
+        "Metz",
+        "Le Havre",
+        "Angers",
+        "Aix-en-Provence"
+      ],
+      "correctIndex": 3,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_fr_0029",
+      "ageBands": [
+        "kid_6_9",
+        "kid_10_13",
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quel fruit sert à faire du jus de pomme ?",
+      "options": [
+        "Pomme",
+        "Citron",
+        "Figue",
+        "Cerise"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "qz_fr_0030",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quel massif montagneux sépare la France et l'Espagne ?",
+      "options": [
+        "Alpes",
+        "Pyrénées",
+        "Vosges",
+        "Jura"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_fr_0031",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quelle ville accueille le Festival de cinéma sur la Croisette ?",
+      "options": [
+        "Deauville",
+        "Annecy",
+        "Cannes",
+        "Arles"
+      ],
+      "correctIndex": 2,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_fr_0032",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quelle autrice a créé Bécassine avec le dessinateur Joseph Pinchon ?",
+      "options": [
+        "Colette",
+        "George Sand",
+        "Marguerite Duras",
+        "Jacqueline Rivière"
+      ],
+      "correctIndex": 3,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_fr_0033",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quel instrument à anches est associé aux bals musette ?",
+      "options": [
+        "Accordéon",
+        "Harpe",
+        "Flûte",
+        "Violon"
+      ],
+      "correctIndex": 0,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_fr_0034",
+      "ageBands": [
+        "teen",
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quel fleuve passe par Lyon ?",
+      "options": [
+        "Seine",
+        "Rhône",
+        "Loire",
+        "Somme"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "qz_fr_0035",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quel film d'animation français suit un ours et une petite souris ?",
+      "options": [
+        "Kirikou et la Sorcière",
+        "Le Roi et l'Oiseau",
+        "Ernest et Célestine",
+        "Le Petit Nicolas"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_fr_0036",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quel chanteur français a popularisé « Aux Champs-Élysées » ?",
+      "options": [
+        "Alain Souchon",
+        "Jacques Dutronc",
+        "Gilbert Bécaud",
+        "Joe Dassin"
+      ],
+      "correctIndex": 3,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_fr_0037",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Quel dessert consiste en une pâte fine cuite dans une poêle ?",
+      "options": [
+        "Crêpe",
+        "Éclair",
+        "Canelé",
+        "Macaron"
+      ],
+      "correctIndex": 0,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_fr_0038",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Qui a écrit Voyage au centre de la Terre ?",
+      "options": [
+        "Alexandre Dumas",
+        "Jules Verne",
+        "Émile Zola",
+        "Albert Camus"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "qz_fr_0039",
+      "ageBands": [
+        "adult",
+        "senior"
+      ],
+      "filter": "clean",
+      "tier": "pro",
+      "question": "Dans quel sport utilise-t-on un cochonnet ?",
+      "options": [
+        "Rugby",
+        "Escrime",
+        "Pétanque",
+        "Cyclisme"
+      ],
+      "correctIndex": 2,
+      "difficulty": 3
+    }
+  ]
+}

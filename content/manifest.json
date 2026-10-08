@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "remoteBaseUrl": "https://raw.githubusercontent.com/scorparc/familybash-content/main/content/",
+  "packs": [
+    { "mode": "impostor",         "language": "de", "file": "impostor.de.json",         "revision": 2 },
+    { "mode": "who_would",        "language": "de", "file": "who_would.de.json",        "revision": 3 },
+    { "mode": "would_you_rather", "language": "de", "file": "would_you_rather.de.json", "revision": 3 },
+    { "mode": "charades",         "language": "de", "file": "charades.de.json",         "revision": 3 },
+    { "mode": "quiz",             "language": "de", "file": "quiz.de.json",             "revision": 4 },
+
+    { "mode": "impostor",         "language": "en", "file": "impostor.en.json",         "revision": 3 },
+    { "mode": "who_would",        "language": "en", "file": "who_would.en.json",        "revision": 3 },
+    { "mode": "would_you_rather", "language": "en", "file": "would_you_rather.en.json", "revision": 3 },
+    { "mode": "charades",         "language": "en", "file": "charades.en.json",         "revision": 3 },
+    { "mode": "quiz",             "language": "en", "file": "quiz.en.json",             "revision": 4 },
+
+    { "mode": "truth_or_dare",    "language": "de", "file": "truth_or_dare.de.json",    "revision": 4 },
+    { "mode": "truth_or_dare",    "language": "en", "file": "truth_or_dare.en.json",    "revision": 4 },
+    { "mode": "word_bomb",        "language": "de", "file": "word_bomb.de.json",        "revision": 2 },
+    { "mode": "word_bomb",        "language": "en", "file": "word_bomb.en.json",        "revision": 2 },
+
+    { "mode": "impostor",         "language": "es", "file": "impostor.es.json",         "revision": 1 },
+    { "mode": "who_would",        "language": "es", "file": "who_would.es.json",        "revision": 1 },
+    { "mode": "would_you_rather", "language": "es", "file": "would_you_rather.es.json", "revision": 1 },
+    { "mode": "charades",         "language": "es", "file": "charades.es.json",         "revision": 1 },
+    { "mode": "quiz",             "language": "es", "file": "quiz.es.json",             "revision": 1 },
+    { "mode": "truth_or_dare",    "language": "es", "file": "truth_or_dare.es.json",    "revision": 1 },
+    { "mode": "word_bomb",        "language": "es", "file": "word_bomb.es.json",        "revision": 1 },
+
+    { "mode": "impostor",         "language": "fr", "file": "impostor.fr.json",         "revision": 1 },
+    { "mode": "who_would",        "language": "fr", "file": "who_would.fr.json",        "revision": 1 },
+    { "mode": "would_you_rather", "language": "fr", "file": "would_you_rather.fr.json", "revision": 1 },
+    { "mode": "charades",         "language": "fr", "file": "charades.fr.json",         "revision": 1 },
+    { "mode": "quiz",             "language": "fr", "file": "quiz.fr.json",             "revision": 1 },
+    { "mode": "truth_or_dare",    "language": "fr", "file": "truth_or_dare.fr.json",    "revision": 1 },
+    { "mode": "word_bomb",        "language": "fr", "file": "word_bomb.fr.json",        "revision": 1 },
+
+    { "mode": "impostor",         "language": "it", "file": "impostor.it.json",         "revision": 1 },
+    { "mode": "who_would",        "language": "it", "file": "who_would.it.json",        "revision": 1 },
+    { "mode": "would_you_rather", "language": "it", "file": "would_you_rather.it.json", "revision": 1 },
+    { "mode": "charades",         "language": "it", "file": "charades.it.json",         "revision": 1 },
+    { "mode": "quiz",             "language": "it", "file": "quiz.it.json",             "revision": 1 },
+    { "mode": "truth_or_dare",    "language": "it", "file": "truth_or_dare.it.json",    "revision": 1 },
+    { "mode": "word_bomb",        "language": "it", "file": "word_bomb.it.json",        "revision": 1 },
+
+    { "mode": "impostor",         "language": "pt", "file": "impostor.pt.json",         "revision": 1 },
+    { "mode": "who_would",        "language": "pt", "file": "who_would.pt.json",        "revision": 1 },
+    { "mode": "would_you_rather", "language": "pt", "file": "would_you_rather.pt.json", "revision": 1 },
+    { "mode": "charades",         "language": "pt", "file": "charades.pt.json",         "revision": 1 },
+    { "mode": "quiz",             "language": "pt", "file": "quiz.pt.json",             "revision": 1 },
+    { "mode": "truth_or_dare",    "language": "pt", "file": "truth_or_dare.pt.json",    "revision": 1 },
+    { "mode": "word_bomb",        "language": "pt", "file": "word_bomb.pt.json",        "revision": 1 }
+  ]
+}

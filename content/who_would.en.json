@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "mode": "who_would",
+  "language": "en",
+  "revision": 3,
+  "title": "Who's more likely – Core EN",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "who_en_0001",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Who's most likely to leave their veggies untouched on the plate?"
+    },
+    {
+      "id": "who_en_0002",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Who's most likely to run straight to the monkeys first at the zoo?"
+    },
+    {
+      "id": "who_en_0003",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Who's most likely to jump in every puddle on a rainy day?"
+    },
+    {
+      "id": "who_en_0004",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Who's most likely to sing the wrong words to a favorite song?"
+    },
+    {
+      "id": "who_en_0005",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult"],
+      "filter": "family",
+      "tier": "free",
+      "text": "Who's most likely to sneak the family dog an extra treat under the table?"
+    },
+    {
+      "id": "who_en_0006",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Who's most likely to forget an appointment they wrote down?"
+    },
+    {
+      "id": "who_en_0007",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Who's most likely to start building furniture without reading the manual?"
+    },
+    {
+      "id": "who_en_0008",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Who's most likely to fall asleep halfway through a movie night?"
+    },
+    {
+      "id": "who_en_0009",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Who's most likely to tell the same story at every family gathering?"
+    },
+    {
+      "id": "who_en_0010",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "pro",
+      "text": "Who's most likely to put off filing their taxes until the very last day?"
+    },
+    {
+      "id": "who_en_0011",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "free",
+      "text": "Who's most likely to secretly sneak a piece of chocolate before dinner?"
+    },
+    {
+      "id": "who_en_0012",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "pro",
+      "text": "Who's most likely to hog the bathroom for way too long in the morning?"
+    },
+    {
+      "id": "who_en_0013",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "free",
+      "text": "Who's most likely to blame someone else for a stinky smell in the room?"
+    },
+    {
+      "id": "who_en_0014",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Who's most likely to lose their phone while it's right in their hand?"
+    },
+    {
+      "id": "who_en_0015",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "pro",
+      "text": "Who's most likely to fall for the same online scam email twice?"
+    },
+    {
+      "id": "who_en_0016",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Who's most likely to spot a rainbow first?"
+    },
+    {
+      "id": "who_en_0017",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Who's most likely to remember everyone's favorite snack?"
+    },
+    {
+      "id": "who_en_0018",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Who's most likely to find a missing puzzle piece?"
+    },
+    {
+      "id": "who_en_0019",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "text": "Who's most likely to invent a wonderful story?"
+    },
+    {"id":"who_en_0020","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Who's most likely to design a secret treehouse?"},
+    {"id":"who_en_0021","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Who's most likely to help a lost dog find its home?"},
+    {"id":"who_en_0022","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Who's most likely to invent a new ice cream flavor?"},
+    {"id":"who_en_0023","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Who's most likely to draw a treasure map?"},
+    {"id":"who_en_0024","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Who's most likely to know the most surprising quiz answer?"},
+    {"id":"who_en_0025","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Who's most likely to plan a long train journey?"},
+    {"id":"who_en_0026","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Who's most likely to write a song for the family?"},
+    {"id":"who_en_0027","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Who's most likely to fix a broken toy?"},
+    {"id":"who_en_0028","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Who's most likely to plant a garden of wildflowers?"},
+    {"id":"who_en_0029","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Who's most likely to plan a picnic despite the rain?"},
+    {"id":"who_en_0030","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Who's most likely to find a funny name for a pet?"},
+    {"id":"who_en_0031","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","text":"Who's most likely to open a museum of odd inventions?"}
+  ]
+}

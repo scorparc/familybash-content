@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 1,
+  "mode": "truth_or_dare",
+  "language": "en",
+  "revision": 4,
+  "title": "Truth or Dare – Core EN",
+  "minAppVersion": "1.0.0",
+  "items": [
+    {
+      "id": "tod_en_0001",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "What is your all-time favorite food?"
+    },
+    {
+      "id": "tod_en_0002",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Do 5 jumping jacks."
+    },
+    {
+      "id": "tod_en_0003",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "If you could have any animal as a pet, which one would you pick?"
+    },
+    {
+      "id": "tod_en_0004",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Sing the chorus of your favorite song out loud."
+    },
+    {
+      "id": "tod_en_0005",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "What is the best gift you have ever received?"
+    },
+    {
+      "id": "tod_en_0006",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Do your best impression of a chicken."
+    },
+    {
+      "id": "tod_en_0007",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "What is one thing you are really proud of that you did this year?"
+    },
+    {
+      "id": "tod_en_0008",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Talk in a funny robot voice until it is your turn again."
+    },
+    {
+      "id": "tod_en_0009",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "What is your favorite way to spend a rainy day?"
+    },
+    {
+      "id": "tod_en_0010",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Tell a joke and try to make everyone laugh."
+    },
+    {
+      "id": "tod_en_0011",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Reveal your most embarrassing nickname and where it came from."
+    },
+    {
+      "id": "tod_en_0012",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Balance a book on your head and count slowly to ten."
+    },
+    {
+      "id": "tod_en_0013",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "What is a small habit that always makes your day better?"
+    },
+    {
+      "id": "tod_en_0014",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Give someone in the room a genuine compliment."
+    },
+    {
+      "id": "tod_en_0015",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "What is the silliest thing you were ever afraid of as a child?"
+    },
+    {
+      "id": "tod_en_0016",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Do your happiest little victory dance for five seconds."
+    },
+    {
+      "id": "tod_en_0017",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "If you could instantly master any skill, what would it be?"
+    },
+    {
+      "id": "tod_en_0018",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "family",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Speak in rhymes for your next two sentences."
+    },
+    {
+      "id": "tod_en_0019",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "wild_lite",
+      "tier": "pro",
+      "kind": "truth",
+      "text": "What is a food combination you secretly love that others find weird?"
+    },
+    {
+      "id": "tod_en_0020",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Smile as widely as you can and hold it for ten seconds."
+    },
+    {
+      "id": "tod_en_0021",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Imitate a family member at the table – the others guess who it is."
+    },
+    {
+      "id": "tod_en_0022",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Hum a song from your youth – the others guess the title."
+    },
+    {
+      "id": "tod_en_0023",
+      "ageBands": ["teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Tell a joke. If nobody laughs, you have to tell another one."
+    },
+    {
+      "id": "tod_en_0024",
+      "ageBands": ["kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Say the alphabet backwards from G to A."
+    },
+    {
+      "id": "tod_en_0025",
+      "ageBands": ["kid_6_9", "kid_10_13"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Hop around your chair like a frog."
+    },
+    {
+      "id": "tod_en_0026",
+      "ageBands": ["adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Reveal what you wanted to be when you were a child."
+    },
+    {
+      "id": "tod_en_0027",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Which animal do you especially like?"
+    },
+    {
+      "id": "tod_en_0028",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "What makes a really good day for you?"
+    },
+    {
+      "id": "tod_en_0029",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "Which sound always makes you smile?"
+    },
+    {
+      "id": "tod_en_0030",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "truth",
+      "text": "What would you like to learn next?"
+    },
+    {
+      "id": "tod_en_0031",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Make the sounds of three different animals."
+    },
+    {
+      "id": "tod_en_0032",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Say your next sentence like a friendly robot."
+    },
+    {
+      "id": "tod_en_0033",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Hum a familiar tune until someone guesses it."
+    },
+    {
+      "id": "tod_en_0034",
+      "ageBands": ["kid_6_9", "kid_10_13", "teen", "adult", "senior"],
+      "filter": "clean",
+      "tier": "free",
+      "kind": "dare",
+      "text": "Clap a short rhythm that everyone can copy."
+    },
+    {"id":"tod_en_0035","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"truth","text":"What little thing always makes you smile?"},
+    {"id":"tod_en_0036","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"dare","text":"Invent a friendly greeting and show everyone."},
+    {"id":"tod_en_0037","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"truth","text":"What imaginary animal would you like as a companion?"},
+    {"id":"tod_en_0038","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"dare","text":"Act like a robot for ten seconds."},
+    {"id":"tod_en_0039","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"truth","text":"Which place would you like to explore one day?"},
+    {"id":"tod_en_0040","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"dare","text":"Tell a tiny story using the words cloud and bicycle."},
+    {"id":"tod_en_0041","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"truth","text":"What game would you invent for a family night?"},
+    {"id":"tod_en_0042","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"dare","text":"Make three different animal sounds."},
+    {"id":"tod_en_0043","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"truth","text":"What new thing did you learn recently?"},
+    {"id":"tod_en_0044","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"dare","text":"Draw a star in the air with your finger."},
+    {"id":"tod_en_0045","ageBands":["kid_6_9","kid_10_13","teen","adult","senior"],"filter":"clean","tier":"pro","kind":"truth","text":"Which superpower would be useful every day?"}
+  ]
+}
